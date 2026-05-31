@@ -9,12 +9,31 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     std::string line;
     int lineNum=1;
     while(std::getline(file, line)){
+        // replace non-breaking spaces
+        std::string::size_type pos;
+        while((pos = line.find("\xC2\xA0")) != std::string::npos)
+            line.replace(pos, 2, " ");
     std::istringstream iss(line);
     std::string word;
     while(iss >> word){
         word.erase(std::remove_if(word.begin(), word.end(), [](unsigned char c){ return ispunct(c); }), word.end());
+        const std::vector<std::string> unicodePunct = {
+            "\xE2\x80\x93", // –  en dash
+            "\xE2\x80\x94", // —  em dash
+            "\xE2\x80\x9E", // „  opening quote
+            "\xE2\x80\x9C", // "  left quote
+            "\xE2\x80\x9D", // "  right quote
+            "\xE2\x80\xA6", // …  ellipsis
+        };
+        for(const auto& seq : unicodePunct) {
+            size_t p;
+            while((p = word.find(seq)) != std::string::npos)
+                word.erase(p, seq.size());
+        }
+
         std::transform(word.begin(), word.end(), word.begin(), [](unsigned char c){ return c < 128 ? std::tolower(c) : c; });
         if(word.empty()) continue;
+        if(std::all_of(word.begin(), word.end(), ::isdigit)) continue;
         wordMap[word].push_back(lineNum);
     }
     lineNum++;
@@ -94,16 +113,15 @@ void URL(const std::string& urlFilename, const std::string& filename){
                 word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
                 urlFile<<word<<"\n";
             }else{
-            size_t dot = word.find('.');
-            if(dot != std::string::npos && dot < word.size() - 1) {
-                std::string tld = word.substr(dot + 1);
-                // strip trailing punctuation from tld
-                tld.erase(std::remove_if(tld.begin(), tld.end(), ispunct), tld.end());
-                if(tld == "lt" || tld == "com" || tld == "org" || tld == "net" || tld == "gov") {
-                    word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
-                    urlFile << word << "\n";
-                }
+            size_t pos = word.find("https://");
+            if(pos == std::string::npos) pos = word.find("http://");
+            if(pos == std::string::npos) pos = word.find("www.");
+            if(pos != std::string::npos) {
+                word = word.substr(pos);
+                word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
+                urlFile << word << "\n";
             }
+
             }
         }
 
