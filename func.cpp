@@ -48,10 +48,16 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
         return;
     }
 
-    countFile << "Word\tCount\n";
+    countFile << std::left << std::setw(20) << "Word" << "Count\n";
+
     for(const auto& entry : wordMap){
         if(entry.second.size()>1){
-        countFile << entry.first << "\t" << entry.second.size() << "\n";
+        int extraBytes = 0;
+        for(unsigned char c : entry.first)
+            if(c >= 0x80 && c <= 0xBF) extraBytes++;
+        countFile << std::left << std::setw(20 + extraBytes) << entry.first <<std::setw(10) << entry.second.size() << "\n";
+
+
     }
     }
     countFile.close();
