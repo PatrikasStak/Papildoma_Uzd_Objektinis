@@ -1,3 +1,6 @@
 count.txt
 lines.txt
 urls.txt
+program
+*.o
+*.d
