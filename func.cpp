@@ -12,7 +12,7 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     std::istringstream iss(line);
     std::string word;
     while(iss >> word){
-        word.erase(std::remove_if(word.begin(), word.end(), ispunct), word.end());
+        word.erase(std::remove_if(word.begin(), word.end(), [](unsigned char c){ return ispunct(c); }), word.end());
         if(word.empty()) continue;
         wordMap[word].push_back(lineNum);
     }
