@@ -22,6 +22,7 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
 }
 
 void Rasyti(const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap){
+    //lines
     std::ofstream linesFile(linesFilename);
     if(!linesFile.is_open()){
         std::cerr << "Nepavyko atidaryti: " << linesFilename << "\n";
@@ -42,6 +43,7 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
     }
     }
     linesFile.close();
+    //count
     std::ofstream countFile(countFilename);
     if(!countFile.is_open()){
         std::cerr << "Nepavyko atidaryti: " << countFilename << "\n";
@@ -61,4 +63,47 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
     }
     }
     countFile.close();
+
+}
+
+void URL(const std::string& urlFilename, const std::string& filename){
+
+    std::ifstream file(filename);
+    std::string line;
+    if(!file.is_open()){
+        std::cerr << "Nepavyko atidaryti: " << filename << "\n";
+        return;
+    }
+    std::ofstream urlFile(urlFilename);
+    if(!urlFile.is_open()){
+        std::cerr << "Nepavyko atidaryti: " << urlFilename << "\n";
+        return;
+    }
+    while(std::getline(file, line)) {
+        std::istringstream iss(line);
+        std::string word;
+        while(iss>>word){
+            if(word.find("https://")==0 || word.find("http://")==0 || word.find("www.")==0){
+                word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
+                urlFile<<word<<"\n";
+            }else{
+            size_t dot = word.find('.');
+            if(dot != std::string::npos && dot < word.size() - 1) {
+                std::string tld = word.substr(dot + 1);
+                // strip trailing punctuation from tld
+                tld.erase(std::remove_if(tld.begin(), tld.end(), ispunct), tld.end());
+                if(tld == "lt" || tld == "com" || tld == "org" || tld == "net" || tld == "gov") {
+                    word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
+                    urlFile << word << "\n";
+                }
+            }
+            }
+        }
+
+    }
+    file.close();
+
+    
+
+
 }
