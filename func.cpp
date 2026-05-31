@@ -13,6 +13,7 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     std::string word;
     while(iss >> word){
         word.erase(std::remove_if(word.begin(), word.end(), [](unsigned char c){ return ispunct(c); }), word.end());
+        std::transform(word.begin(), word.end(), word.begin(), [](unsigned char c){ return c < 128 ? std::tolower(c) : c; });
         if(word.empty()) continue;
         wordMap[word].push_back(lineNum);
     }
