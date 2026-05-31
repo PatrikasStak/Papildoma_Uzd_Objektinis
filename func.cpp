@@ -23,6 +23,11 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
 
 void Rasyti(const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap){
     std::ofstream linesFile(linesFilename);
+    if(!linesFile.is_open()){
+        std::cerr << "Nepavyko atidaryti: " << linesFilename << "\n";
+        return;
+    }
+
     
     for(const auto& entry : wordMap){
         if(entry.second.size()>1){
@@ -38,6 +43,11 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
     }
     linesFile.close();
     std::ofstream countFile(countFilename);
+    if(!countFile.is_open()){
+        std::cerr << "Nepavyko atidaryti: " << countFilename << "\n";
+        return;
+    }
+
     countFile << "Word\tCount\n";
     for(const auto& entry : wordMap){
         if(entry.second.size()>1){
