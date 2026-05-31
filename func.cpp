@@ -22,16 +22,22 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     file.close();
 }
 
-void Rasyti(const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap){
+void Rasyti(const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap, bool sortByCount){
     //lines
     std::ofstream linesFile(linesFilename);
     if(!linesFile.is_open()){
         std::cerr << "Nepavyko atidaryti: " << linesFilename << "\n";
         return;
     }
+    std::vector<std::pair<std::string, std::vector<int>>> entries(wordMap.begin(), wordMap.end());
+    if(sortByCount)
+        std::sort(entries.begin(), entries.end(), [](const auto& a, const auto& b){
+            return a.second.size() > b.second.size();
+        });
+
 
     
-    for(const auto& entry : wordMap){
+    for(const auto& entry : entries){
         if(entry.second.size()>1){
         linesFile << entry.first << ": ";
         for(size_t i = 0; i < entry.second.size(); ++i){
@@ -53,7 +59,7 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
 
     countFile << std::left << std::setw(20) << "Word" << "Count\n";
 
-    for(const auto& entry : wordMap){
+    for(const auto& entry : entries){
         if(entry.second.size()>1){
         int extraBytes = 0;
         for(unsigned char c : entry.first)

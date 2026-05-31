@@ -1,7 +1,113 @@
-Užduoties formuluotė
+From Wikipedia, the free encyclopedia
+For help creating links in Wikipedia, see Help:Contents/Links and Help:Link. For the Wikipedia Manual of Style guidelines on linking, see Wikipedia:Manual of Style (linking).
+Wiktionary logo
+Look up Link, link, linked, linking, or links in Wiktionary, the free dictionary.
+Link or Links may refer to:
 
-Suskaičiuokite, kiek kartų kiekvienas skirtingas žodis pasikartoja Jūsų tekste. Tekstą galite paimti iš bet kur, pvz.: Vikipediją straipsnį apie Vilnių (Geriau kad būtu kitoks tekstas, ne mažiau 1000 žodžių, nereikia traukti straipsnio programiškai, užtenka nukopijuoti ir įkelti į apdorojamą failą). Tuomet realizacijos output'e (išoriniame faile) išveskite skirtingus žodžius (kableliai, taškai ir kiti skyrybos ženklai nėra žodžiu dalis!), kurie pasikartojo dažniau negu 1 kartą, o taip pat ir count'erį, nurodantį kiek kartų konkretus žodis pasikartojo.
-Sukurkite failą su cross-reference tipo lentelę kurioje būtų nurodyta, kurioje teksto vietoje (kurioje(-iose) teksto eilutėse) kiekvienas iš daugiau negu vieną kartą pasikartojantis žodis buvo paminėtas.
-URL adresų suradimas Jūsų tekste. Kaip ir pirmos užduoties atveju, tekstą galite paimti iš bet kur, tačiau būtina, kad tame tekste būtų bent keli URL'ai, pateikti "pilnu" https://www.vu.lt/, https://vu.lt/ ar "sutrumpintu" pavidalu: www.vu.lt, vu.lt. Jūsų tikslas, iš to teksto išrinkti visus šiuos URL'us ir grąžei išvesti į failą!
-Repozitorija turi būti parengta pagal visus ankstesnių darbų galutinėms versijoms galiojančius reikalavimus.
-Papildoma užduotis iš asociatyvių konteinerių ir/ar std::string tematikos bus paskirta gynimo metu "individualiai"! 
+Places
+Link, West Virginia, an unincorporated community in the US
+Link River, Klamath Falls, Oregon, US
+People with the name
+Link (singer) (Lincoln Browder, born 1964), American R&B singer
+Link (surname)
+Charles Lincoln "Link" Neal III of Rhett & Link (born 1978), American comedian and YouTuber
+Link Wray (1929–2005), American rock-and-roll guitarist
+Devices
+Link, a single element of a chain
+Link-and-pin coupler
+Link Trainer, a series of flight simulators produced from 1930s to 1950s
+Science and technology
+Computing
+Hyperlink, from one electronic document to another
+link (Unix), command-line program to link directory entries
+<link>, a type of HTML element
+Link, in a linked list
+Linker (computing), converts object files to executable
+Links (web browser)
+Microsoft Office Assistant Links, an animated cat
+Link layer in computer networking
+ln (Unix), command-line program to create a link to a file
+Chainlink (blockchain), a cryptocurrency
+Data networks
+Link (Indonesia), an interbank network
+LINK (UK), a cash machine network
+Link+, for interlibrary loan in California and Nevada, US
+Mathematics
+Simplicial link, a set of simplices "surrounding" a given vertex in a simplicial complex
+Link (knot theory), a collection of knots entangled with one another
+Link function in statistics
+Other uses in science and technology
+Link (Mars), a rock outcrop
+Link or linking col, used in determining topographic prominence
+Telecommunications link, communication channel between two or more devices
+Arts, entertainment, and media
+Fictional characters
+Link (The Legend of Zelda), in The Legend of Zelda media
+Link (The Matrix), in Matrix media
+Link, in the 1993 novel Stone Cold
+Link (Linkovitch Chomofsky), in the 1992 film Encino Man
+Link Hogthrob, in The Muppets
+Lancelot Link, chimpanzee, title character of Lancelot Link, Secret Chimp television series
+Link Larkin, in the musical Hairspray
+Games
+Links (series), computer-simulated golf game by Access Software
+Pokémon Link!, a 2005 puzzle game for the Nintendo DS
+Music
+The Link (album), by French death metal band Gojira
+Links (Kerfuffle album), a 2006 album by English folk band Kerfuffle
+Links (Mark Murphy album), a 2001 album by Mark Murphy
+"Link", a 2005 song by L'Arc-en-Ciel
+"Link", a 2007 song by Porno Graffitti
+"Links", a 2023 song by Indo-Canadian rapper Sukha
+Periodicals
+Link (magazine), a free publication of The Greenville News in Greenville, South Carolina, US
+Links (magazine), a US golf magazine
+The Link (newspaper), a student newspaper at Concordia University, Canada
+The Link, the newsletter of the organization Americans for Middle East Understanding
+Television
+Link TV, US network
+The Link (game show), UK, 2014–2015
+The Link (TV program), US, 2011 documentary
+The Link, a TV series by aptn Kids, Canada
+Link: Eat, Love, Kill, a 2022 South Korean television series
+Other uses in arts, entertainment, and media
+Link (film), a 1986 horror movie featuring a super-intelligent, murderous orangutan
+WLNK (formerly 107.9 the Link), a radio station in Charlotte, North Carolina, US
+Organizations and programs
+Businesses
+Air Link, New South Wales, Australia
+Hong Kong Link, toll tunnels and bridges company
+Link REIT, Hong Kong real estate investment trust
+The Link (retailer), UK mobile phone retailer
+Link Aviation Devices, a manufacturer of aircraft simulator, now a subsidiary of L3 Technologies
+Other organizations and programs
+HOL LiNK program (Literacy and Numeracy Knowledge), by Hands On Learning Australia
+Liberty in North Korea (LiNK), a refugee resettling group
+Link Campus University, Rome, Italy
+LINKS units, later student volunteering units, of St John Ambulance in England and Wales
+Local involvement networks (LINks), National Health Service England
+Project LINK, a UN project to build global macroeconomic models
+The Link (UK organization) for "Anglo-German friendship", UK pro-Nazi organization, 1937–1939
+The Links, a social and service organization of American Black women
+Transportation systems
+Link (Rochester), an under-construction BRT line in Rochester, Minnesota, US
+Link (Saskatoon), an under-construction BRT in Canada
+Link light rail, operated by Sound Transit, in the region of Seattle, Washington, US
+Link Train, Toronto Airport, Canada
+San Leandro LINKS, a bus service, California, US
+Link bus services, a service in Auckland, New Zealand
+Other uses
+Link (unit), surveying length unit
+Link, a single sausage in a string
+Links (golf), a coastal golf course
+The Link (building), a skyscraper in France
+The Links, the mascot of Lincoln High School (Lincoln, Nebraska)
+See also
+All pages with titles containing Link
+Linc (disambiguation)
+Lincs (disambiguation)
+Linker (disambiguation)
+Linq (disambiguation)
+Linx (disambiguation)
+Lynx (disambiguation)
+Microsoft Lync
