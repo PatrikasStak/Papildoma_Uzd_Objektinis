@@ -6,6 +6,14 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
         std::cerr<<"Failo nepavyko atidaryti\n";
         return;
     }
+    const std::vector<std::string> unicodePunct = {
+        "\xE2\x80\x93", // –  en dash
+        "\xE2\x80\x94", // —  em dash
+        "\xE2\x80\x9E", // „  opening quote
+        "\xE2\x80\x9C", // "  left quote
+        "\xE2\x80\x9D", // "  right quote
+        "\xE2\x80\xA6", // …  ellipsis
+    };
     std::string line;
     int lineNum=1;
     while(std::getline(file, line)){
@@ -17,14 +25,6 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     std::string word;
     while(iss >> word){
         word.erase(std::remove_if(word.begin(), word.end(), [](unsigned char c){ return ispunct(c); }), word.end());
-        const std::vector<std::string> unicodePunct = {
-            "\xE2\x80\x93", // –  en dash
-            "\xE2\x80\x94", // —  em dash
-            "\xE2\x80\x9E", // „  opening quote
-            "\xE2\x80\x9C", // "  left quote
-            "\xE2\x80\x9D", // "  right quote
-            "\xE2\x80\xA6", // …  ellipsis
-        };
         for(const auto& seq : unicodePunct) {
             size_t p;
             while((p = word.find(seq)) != std::string::npos)
@@ -105,14 +105,18 @@ void URL(const std::string& urlFilename, const std::string& filename){
         std::cerr << "Nepavyko atidaryti: " << urlFilename << "\n";
         return;
     }
+    std::set<std::string> tlds;
+    std::ifstream tldFile("tlds.txt");
+    std::string tldLine;
+    while(std::getline(tldFile, tldLine)){
+        std::transform(tldLine.begin(), tldLine.end(), tldLine.begin(), ::tolower);
+        tlds.insert(tldLine);
+    }
+
     while(std::getline(file, line)) {
         std::istringstream iss(line);
         std::string word;
         while(iss>>word){
-            if(word.find("https://")==0 || word.find("http://")==0 || word.find("www.")==0){
-                word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
-                urlFile<<word<<"\n";
-            }else{
             size_t pos = word.find("https://");
             if(pos == std::string::npos) pos = word.find("http://");
             if(pos == std::string::npos) pos = word.find("www.");
@@ -120,11 +124,19 @@ void URL(const std::string& urlFilename, const std::string& filename){
                 word = word.substr(pos);
                 word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
                 urlFile << word << "\n";
-            }
-
+            } else {
+                size_t dot = word.find('.');
+                if(dot != std::string::npos && dot < word.size() - 1){
+                    std::string tld = word.substr(dot + 1);
+                    tld.erase(std::remove_if(tld.begin(), tld.end(), ispunct), tld.end());
+                    std::transform(tld.begin(), tld.end(), tld.begin(), ::tolower);
+                    if(tlds.count(tld)){
+                        word.erase(std::remove_if(word.end()-1, word.end(), ispunct), word.end());
+                        urlFile << word << "\n";
+                    }
+                }
             }
         }
-
     }
     file.close();
 
