@@ -1,693 +1,637 @@
-{{pps-template|small=yes}}
-{{reikšmė|Lietuvos sostinę|kaimą Kupiškio rajone|[[Vilnius (Kupiškis)]].}}
-{{city/Lietuvos miestas
-|pavadinimas = Vilnius
-|paveikslelis = Vilnius old town by Augustas Didzgalvis.jpg
-|paveikslėlio tekstas = Vilniaus panorama su [[Vilniaus senamiestis|senamiesčiu]] ir verslo centru fone 2021 m.
-|herbas = Grand Coat of arms of Vilnius.svg
-|vėliava = Flag_of_Vilnius.svg
-|lat = 54.687
-|long = 25.283
-|apskritis = Vilniaus
-|savivaldybė = Vilniaus miesto
-|įkurtas = [[1323]] m. {{smaller|(pirmą kartą paminėtas)}}
-|vadovas = [[Valdas Benkunskas]]
-|gyventojumetai = 2026
-|gyventoju = 642494
-|gyventojuRef = <ref>{{Lt mst gyventojai}}</ref>
-|plotas = 396.64
-|globejas = [[Šv. Kristoforas]] 
-|pastokodas = centrinis LT-01001
-|kirč = {{Vietovardis|k=1|Vi̇̀lnius|Vi̇̀lniaus|Vi̇̀lniui|Vi̇̀lnių|Vi̇̀lniumi|Vi̇̀lniuje|š=2002}}
-|istpav = {{la|Vilna}}, {{pl|Wilno}}, {{ru|Вильна}},<ref name="ESBE">{{ESBE|6|021/21158|Вильна|381}}</ref> ''Вильно'',<ref name="GSSRI">{{GSSRI|1|460|Вильно}}</ref> {{be|Вільня}}, {{de|Wilna}}, {{he|וילנה|Vilne}}, {{yi|ווילנע|Wilne}}
-|vikiteka = Category:Vilnius
-}}
-
-'''Vilnius''' – miestas, [[Lietuva|Lietuvos]] [[sostinė]]. [[Vilniaus apskritis|Vilniaus apskrities]], [[Vilniaus rajono savivaldybė]]s ir [[Vilniaus miesto savivaldybė]]s centras, yra 20 seniūnijų. [[Vilniaus arkivyskupija|Arkivyskupijos]] centras, nuo 1579 m. – [[Vilniaus Universitetas|universitetinis]] miestas. Sostinėje veikia aukščiausios valdžios institucijos – [[Lietuvos Respublikos prezidentūra]], [[Lietuvos Seimas]], [[Lietuvos Respublikos Vyriausybė|Lietuvos Vyriausybė]], [[Ministerija|ministerijos]], Lietuvos [[Lietuvos Aukščiausiasis Teismas|Aukščiausiasis]] ir [[Lietuvos Respublikos Konstitucinis Teismas|Konstitucinis]] teismai, užsienio valstybių [[Ambasada|ambasados]] ir atstovybės, [[Diplomatinė misija|diplomatinės misijos]], tarptautinių organizacijų atstovybės.
-
-1994 m. [[Vilniaus senamiestis]] įtrauktas į [[UNESCO]] organizacijos [[Pasaulio paveldo sąrašas|Pasaulio paveldo sąrašą]].
-
-== Etimologija ==
-
-Vilnius yra [[vandenvardinis vietovardis]] – jam vardą davusi [[Vilnia|Vilnios]] upė, tekanti pro miestą.<ref>{{Legendos 2008|138}}</ref> Upėvardis ''Vilnia'' sietinas su bendriniu žodžiu ''vilnia'' (bendrinėje kalboje įsigalėjęs variantas „vilnis“), taip pat veiksmažodžiu „vilnyti“.<ref>{{Mašalaitis 2007|208}}</ref>
-
-Senoji Vilniaus vardo forma ''Vilnia'' žinoma rytų Lietuvos tarmėse. Apie XV a. įsigalėjo vardo forma ''Vilnius'', kuri padaryta pagal tą patį modelį kaip ''Alyta'' (upės vardas) ir ''[[Alytus]]'' (miesto vardas). Formos perėjimą nuo moteriškos į vyrišką galėjo lemti ir [[Lenkų kalba|lenkų kalbos]] galūnė ''-o'' (iš ''Wilno''), kuri dažniausiai verčiama vyriška, o ne moteriška gimine.<ref>{{Vanagas 2004|254–262}}</ref> Taip pat gali būti, kad pats žodis ''miestas'', būdamas vyriškos giminės, tarsi nusako poreikį jį vadinti vyriška gimine, kad nebūtų nesusipratimų vienodai vadinant ir upę, ir miestą.<ref>{{Sabaliauskas 1994|375}}</ref> Vardo ''Vilnius'' vyriška forma minima jau [[Mikalojus Daukša|M. Daukšos]] 1595 m. išleistame katekizme. [[Lotynų kalba|Lotynų kalboje]] yra išlikusi senoji Vilniaus vardo forma ''Vilna''.
-
-== Geografija ==
-
-Yra pietrytinėje [[Lietuva|Lietuvoje]], [[Vilnia|Vilnios]] ir [[Neris|Neries]] santakoje, ~20 km į pietus nuo [[Europos geografinis centras|geografinio Europos centro]], 312 km nuo [[Baltijos jūra|Baltijos jūros]].
-
-Pastatai sudaro 20,2 % miesto teritorijos. Miškai sudaro 43,9 % miesto, vandenys 2,1 %.
-
-=== Paviršius ===
-
-Įsikūręs [[Baltijos aukštumos|Baltijos aukštumų]] kalvyno juostoje, giliai išraižytoje vingiuoto Neries slėnio. Pietryčiuose paviršius kyla į kalvotą ir slėniuotą [[Medininkų aukštuma|Medininkų aukštumą]], šiaurėje – į ežeringą [[Aukštaičių aukštuma|Aukštaičių aikštumą]], kurios pietinis pakraštys – [[Riešės aukštuma]] – kyla ties šiaurės vakariniais miesto pakraščiais (pradedant Šeškine, Viršuliškėmis, Baltupiais, Santariškėmis). Šiaurės rytinė miesto dalis plyti [[Neries-Žeimenos žemuma|Neries-Žeimenos žemumoje]]. Centrinė miesto dalis yra plačiame (~5 km) Neries senslėnyje, kuris link upės leidžiasi 8 terasomis. Gilų slėnį taip pat sudaro ir Neries intakas [[Vilnia]]. Aukštumos į senslėnį leidžiasi daugiausia stačiais, raguvų išraižytais, šaltiniuotais šlaitais.<ref>{{VLE|XXV}}</ref> Vietomis aukštumos priartėja prie pat upių ir taip dėl erozijos atsiveria skardžiai (pvz., [[Pūčkorių atodanga]], [[Plikakalnio atodanga]], Naujanerių atodanga).
-
-Žemiausia miesto vieta (97 m) yra Neries pakrantėse, o aukščiausiai paviršius iškyla (234 m) Pavilnyje ([[Rokantiškių kalva]]).
-
-[[Šeškinė|Šeškinėje]] yra ledynmetinio akumuliacinio reljefo reliktas, [[Šeškinės ozas]]. Kiti raiškesni ledyniniai kraštovaizdžiai – [[Panerių kalvynas]], [[Gariūnų sufozinis cirkas]], [[Rasų-Ribiškių kalvynas]].
-
-=== Hidrologija ===
-
-Miestas patenka į [[Neris|Neries]] baseiną. Upė kerta miestą skersai. Iš rytų į Nerį labai vinguriuodama teka Vilnia su keletu trumpų intakų ([[Kaukysa]], [[Murlė|Murle]]), o pietinį miesto pakraštį juosia kitas Neries intakas – [[Vokė]]. Šiauriniais pakraščiais teka Neries intakas [[Riešė (upė)|Riešė]], be to, į Nerį miesto teritorijoje įteka dar keletas smulkių upelių – [[Antavilis (upė)|Antavilis]], [[Veržuva (upė)|Veržuva]], [[Upelė]] (su [[Dvarčia|Dvarčione]]), [[Verkė]], [[Turniškė]], [[Cedronas]], [[Sudervėlė]]).
-
-Neryje yra susiformavusių bevardžių upinių [[sala|salų]] ties Gariūnais, Vingio parku, Turniškėmis, tačiau tik viena ties Žvėrynu oficialiai vadinama [[Bebrų sala]].
-
-Yra keletas ežerų: ežeringiausia yra šiaurės rytinė dalis, kur Antavilių miškuose telkšo [[Balžis|Balžio]], [[Antavilio ežeras|Antavilio]], [[Juodis (Vilniaus m.)|Juodžio]], [[Tapelių ežeras|Tapelių]], [[Skarbelis|Skarbelio]] ežerai bei šiaurėje, šalia [[Verkių Riešė]]s esantis [[Žalieji ežerai|Žaliųjų ežerų]] ežerynas ([[Balsys (ežeras)|Balsys]], [[Gulbinas (Vilnius)|Gulbinas]], [[Mažasis Gulbinų ežeras]], [[Raistelis (ežeras)|Raistelis]] ir kt.). Vakariniame pakraštyje, prie [[Pilaitė (Vilnius)|Pilaitės]], telkšo [[Gelūžė]]s, [[Salotė (ežeras)|Salotės]], [[Baltieša|Baltiešos]] ežerai. Keli smulkesni ežerėliai ([[Kairėnų ežeras]], [[Naujųjų Verkių ežeras]]) bei tvenkiniai ([[Cedrono tvenkinys]], [[Jeruzalės tvenkinys]], [[Rokantiškių tvenkinys]]) telkšo kitur mieste.
-
-Šiaurės rytiniame Vilniaus pakraštyje plyti Šeškučių pelkė.
-
-=== Gamta ===
-
-Pagrindinis želdynų masyvas Vilniuje – visą šiaurės rytinę miesto pusę užimantis [[Lavoriškių-Nemenčinės miškai|Lavoriškių-Nemenčinės miškų]] pakraštys (Antavilių, Valakampių ir kt. miškai), kur vyrauja [[šilas|šilai]]. Šiaurėje, aplink Žaliuosius ežerus, auga Verkių miškas, o rytuose-pietryčiuose auga moreninių kalvynų viršūnes dengiantys miškai (Antakalnio, Belmonto, Pavilnių, Liepkalnio), kur vyrauja daugiausia pušynai ir [[eglynas|eglynai]]. Per pietinę Vilniaus pusę driekiasi [[Panerių miškas]], kuriame auga vienos aukščiausių Lietuvos eglių, o už Pilaitės ir Lazdynų prasideda [[Girulių miškas]]. Centrinėje miesto dalyje yra mažesnių miškų ir parkų: [[Vingio parkas]], [[Kalvarijų memorialinis draustinis|Kalvarijų parkas]], [[Bernardinų sodas]], [[Kalnų parkas]], [[Misionierių sodai]], [[Sapiegų rūmų parkas]] ir kt.
-
-Yra senų, saugomų medžių ([[Sapiegų parko liepa]], [[Žvėryno liepa]], [[Vingio parko liepų alėja]], [[Kaštonų ratas Pilių parke]], [[Aštuonių klevų ratas Vileišių sodyboje]] ir kt.), retų augalų rūšių augaviečių ([[Augalų rūšių, įrašytų į Raudonąją knygą, augavietė|Baltupių augavietė]], [[kardalapio garbenio augavietė]]. Vaizdingiausios vietos saugomos [[Pavilnių regioninis parkas|Pavilnių]] ir [[Verkių regioninis parkas|Verkių]] regioniniuose parkuose, įsteigta daug draustinių.
-
-<gallery>
-Seskines ozas by Augustas Didzgalvis.jpg|[[Šeškinės ozas]]
-Balžis iš rytų.JPG|[[Balžis|Balžio ežeras]]
-Vilnia by Augustas Didzgalvis.jpg|[[Vilnelė|Vilnios upė]]
-Vingio parkas by Augustas Didzgalvis.jpg|[[Vingio parkas]] (2021)
-Vingis 2.JPG|[[Vingio parkas]] (2014)
-</gallery>
-
-{{Vilniaus miesto saugomos teritorijos}}
-
-=== Klimatas ===
-
-Klimatas yra pereinamasis, šiltos vasaros ir šaltos žiemos. Vidutinė metinė temperatūra yra +6,6&nbsp;°C. Šalčiausia sausį (vidutinė temperatūra −4&nbsp;°C), o šilčiausia liepą (vidutinė temperatūra 17&nbsp;°C). Vidutinis kritulių kiekis – 688 mm.
-
-Pasitaiko šiltų vasarų (>30&nbsp;°C). Galimos savaites besitęsiančios [[Sausra|sausros]].
-
-Būna šaltų žiemų (naktimis −30&nbsp;°C), užšąla upės.
-
-Sniego danga Vilniuje, kaip ir visoje Rytų Lietuvoje, būna storesnė, negu kitur Lietuvoje.
-
-Oro temperatūra matuojama nuo 1770 m. (duomenys išlikę nuo 1777 m.), krituliai nuo 1887 m.<ref>{{EL|1|76|Klimato svyravimai}}</ref>
-{{Infobox Weather
-|metric_first= Yes
-|single_line= Yes
-|location = Vilniaus
-|Jan_Hi_°C = -1.8 |Jan_REC_Hi_°C = 12.3 |Jan_REC_Hi_m = 2023
-|Feb_Hi_°C = -1.1 |Feb_REC_Hi_°C = 14.4 |Feb_REC_Hi_m = 1990
-|Mar_Hi_°C = 3.8 |Mar_REC_Hi_°C = 24.7 |Mar_REC_Hi_m = 2024
-|Apr_Hi_°C = 12.1 |Apr_REC_Hi_°C = 29.0 |Apr_REC_Hi_m = 2012
-|May_Hi_°C = 18.4 |May_REC_Hi_°C = 31.8 |May_REC_Hi_m = 1931
-|Jun_Hi_°C = 20.9 |Jun_REC_Hi_°C = 33.4 |Jun_REC_Hi_m = 1940
-|Jul_Hi_°C = 23.2 |Jul_REC_Hi_°C = 34.9 |Jul_REC_Hi_m = 1994
-|Aug_Hi_°C = 22.4 |Aug_REC_Hi_°C = 34.9 |Aug_REC_Hi_m = 1992
-|Sep_Hi_°C = 16.6 |Sep_REC_Hi_°C = 33.1 |Sep_REC_Hi_m = 2015
-|Oct_Hi_°C = 10.2 |Oct_REC_Hi_°C = 24.5 |Oct_REC_Hi_m = 1942
-|Nov_Hi_°C = 3.3 |Nov_REC_Hi_°C = 15.5 |Nov_REC_Hi_m = 2002
-|Dec_Hi_°C = -0.7 |Dec_REC_Hi_°C = 10.5 |Dec_REC_Hi_m = 1960
-|Year_Hi_°C = 10.6 |Year_REC_Hi_°C = 34.9 |Year_REC_Hi_m = 1994
-|Jan_Lo_°C = -6.7 |Jan_REC_Lo_°C = -37.2 |Jan_REC_Lo_m = 1940
-|Feb_Lo_°C = -6.9 |Feb_REC_Lo_°C = -35.8 |Feb_REC_Lo_m = 1956
-|Mar_Lo_°C = -3.5 |Mar_REC_Lo_°C = -29.6 |Mar_REC_Lo_m = 1964
-|Apr_Lo_°C = 2.1 |Apr_REC_Lo_°C = -14.4 |Apr_REC_Lo_m = 1931
-|May_Lo_°C = 7.3 |May_REC_Lo_°C = -4.4 |May_REC_Lo_m = 1995
-|Jun_Lo_°C = 10.6 |Jun_REC_Lo_°C = 0.1 |Jun_REC_Lo_m = 1982
-|Jul_Lo_°C = 12.9 |Jul_REC_Lo_°C = 3.5 |Jul_REC_Lo_m = 1977
-|Aug_Lo_°C = 12.1 |Aug_REC_Lo_°C = 1.0 |Aug_REC_Lo_m = 1966
-|Sep_Lo_°C = 7.8 |Sep_REC_Lo_°C = -4.8 |Sep_REC_Lo_m = 1986
-|Oct_Lo_°C = 3.5 |Oct_REC_Lo_°C = -14.4 |Oct_REC_Lo_m = 1956
-|Nov_Lo_°C = -1.1 |Nov_REC_Lo_°C = -22.8 |Nov_REC_Lo_m = 1890
-|Dec_Lo_°C = -5.3 |Dec_REC_Lo_°C = -30.5 |Dec_REC_Lo_m = 1978
-|Year_Lo_°C = 2.7 |Year_REC_Lo_°C = -37.2 |Year_REC_Lo_m = 1940
-|Jan_Av_°C = -4.1 
-|Feb_Av_°C = -3.9 
-|Mar_Av_°C = 0.1 
-|Apr_Av_°C = 6.9 
-|May_Av_°C = 12.8 
-|Jun_Av_°C = 15.6 
-|Jul_Av_°C = 17.9 
-|Aug_Av_°C = 17.0 
-|Sep_Av_°C = 12.0 
-|Oct_Av_°C = 6.7 
-|Nov_Av_°C = 1.2 
-|Dec_Av_°C = -2.8 
-|Year_Av_°C = 6.6
-
-<!--**** use mm or cm but not both! ****-->
-|Jan_Precip_cm = |Jan_Precip_mm = 48 
-|Feb_Precip_cm = |Feb_Precip_mm = 37
-|Mar_Precip_cm = |Mar_Precip_mm = 42
-|Apr_Precip_cm = |Apr_Precip_mm = 42
-|May_Precip_cm = |May_Precip_mm = 64
-|Jun_Precip_cm = |Jun_Precip_mm = 75
-|Jul_Precip_cm = |Jul_Precip_mm = 92
-|Aug_Precip_cm = |Aug_Precip_mm = 73
-|Sep_Precip_cm = |Sep_Precip_mm = 61
-|Oct_Precip_cm = |Oct_Precip_mm = 56
-|Nov_Precip_cm = |Nov_Precip_mm = 46
-|Dec_Precip_cm = |Dec_Precip_mm = 53
-|Year_Precip_cm = |Year_Precip_mm = 688
-|source = Vilniaus klimatas<ref name="pogoda">{{cite web|url=http://www.pogodaiklimat.ru/climate2/26730.htm|title=Vilniaus klimatas|accessdate=2016-08-24|work=|language=ru}}</ref>
-|accessdate = 2016 08 24
-}}
-
-== Istorija ==
-{{main|Vilniaus istorija}}
-[[Vaizdas:Album Wilenskie. 1845-1875 (5552584) (cropped).jpg|thumb|XIX a. panorama (Zygmuntas Fogelis)]]
-
-Pavadinimas kilęs nuo mieste tekančios [[Vilnia|Vilnios]] upės.<ref>{{cite web|title=Lietuvos regionų portretas – Vilniaus miesto savivaldybė|publisher=Statistikos departamentas prie Lietuvos Respublikos Vyriausybės|url=http://regionai.stat.gov.lt/lt/vilniaus_apskritis/vilniaus_miesto_savivaldybe.html|accessdate=19 gruodžio 2017|archive-date=2018-01-09|archive-url=https://web.archive.org/web/20180109194724/http://regionai.stat.gov.lt/lt/vilniaus_apskritis/vilniaus_miesto_savivaldybe.html|url-status=dead}}</ref> Upėvardis ''Vilnia'' sietinas su bendriniu [[lietuvių kalba|lietuvių kalbos]] žodžiu ''vilnia'' (bendrinėje kalboje įsigalėjęs variantas ''vilnis''). Senoji Vilniaus vardo forma ''Vilnia'' žinoma rytų Lietuvos tarmėse. Apie XV a. įsigalėjo vardo forma ''Vilnius'', kuri padaryta pagal tą patį modelį kaip ''Alyta'' (upės vardas) ir ''Alytus'' (miesto vardas). Vardo ''Vilnius'' formos yra užrašytos XVI amžiaus [[Lietuvos raštija|lietuviškuose raštuose]]. [[Lotynų kalba|Lotynų kalboje]] yra išlikusi senoji Vilniaus vardo forma ''Vilna''.[[Vaizdas:Ldk_Gediminas_Vilniui-690.jpeg|thumb|left|Medalis „Lietuvos didysis kunigaikštis Gediminas. Vilniui – 690 metų“ ([[Lina Kalinauskaitė]])]]
-
-Kada įkurta Vilniaus gyvenvietė, neaišku. Apie miesto įkūrimą sukurta [[Geležinio Vilko legenda]]. Vėlyvojo [[bronzos amžius|bronzos amžiaus]] (XIII a. iki m. e.), ankstyvojo [[geležies amžius|geležies amžiaus]], bei [[Antika|romėniškojo laikotarpio]] pradžioje (III a.), kaip visoje [[Lietuva|Lietuvoje]] į rytus nuo [[Šventoji|Šventosios]] upės ir vakarų [[Baltarusija|Baltarusijoje]] vyravo [[brūkšniuotosios keramikos kultūra|brūkšniuotosios keramikos]] [[archeologinė kultūra]]. Jos palikuonys, [[baltai|baltų]] genčių gentis – [[Lietuviai (rytiniai senlietuviai)|aukštaičiai]]. Pats Vilnius pirmą kartą paminėtas rašytiniuose šaltiniuose Lietuvos didžiojo kunigaikščio [[Gediminas|Gedimino]] 1323 m. [[Gedimino laiškai|laiške]] Vokietijos miestams. 1387 m. kovo 22 d. Lenkijos karalius ir Lietuvos didysis kunigaikštis [[Jogaila]] Merkinėje suteikė Vilniui [[Magdeburgo teisė|Magdeburgo teises]], kurios vėliau tapo pavyzdžiu daugeliui kitų [[LDK|Lietuvos Didžiosios Kunigaikštystės]] miestų. 1579 m. Lietuvos didysis kunigaikštis ir Lenkijos karalius [[Steponas Batoras]] mieste įkūrė [[Vilniaus universitetas|universitetą]]. Universitetas greitai tapo svarbiausiu regiono moksliniu ir kultūriniu centru. Vilnius taip pat tapo [[Žydai|žydų]] kultūros Šiaurės Europoje centru. [[1610 m. Vilniaus gaisras|1610 m. Vilnių nusiaubė gaisras]], labai nukentėjo [[Vilniaus universitetas]], [[Vilniaus universiteto biblioteka]] ir archyvas.
-
-[[Vaizdas:Wilno 1934.jpg|thumb|1934 m. žemėlapis]]
-
-[[Švedų tvanas|„Tvano“]] metu 1655 m. į Vilnių įžengė [[Rusijos caras]] ir miestą pirmą kartą užėmė ir valdė Rusijos armija. Miestas kelias dienas buvo plėšiamas, sudegintas, didelė dalis gyventojų išžudyta. Nors rusai paliko miestą po 13 metų, bet Vilniaus augimas ilgam buvo sustabdytas. Šiaurės karo metu (1702 ir 1707 m.) Vilnių buvo užėmusi švedų kariuomenė. XVIII a. miesto augimą stabdė dideli [[1737 m. Vilniaus gaisras|gaisrai 1737 m.]], [[1748 m. didysis Vilniaus gaisras|1748 m.]], [[1749 m. Vilniaus gaisras|1749 m.]]
-
-Nuo 1795 m. iki [[Pirmasis pasaulinis karas|Pirmojo pasaulinio karo]], kaip ir visa Lietuva, Vilnius buvo [[Rusijos imperija|Rusijos imperijos]] sudėtyje, buvo [[Vilniaus gubernija|gubernijos]] centras.<ref>{{SGKP|13|492|Wilno}}</ref> Po [[1831 m. sukilimas|1831 m. sukilimo]] Rusijos valdžia uždarė Vilniaus universitetą kaip nacionalistinių jėgų židinį. Vilnius vystėsi kaip Rusijos gubernijos sostinė, tačiau turėjo ir regioninę reikšmę. Carmečiu Vilnius buvo generalgubernijos sostinė, Šiaurės-Vakarų krašto centras.
-
-1915–1918 m. Vilnių buvo [[Vilniaus mūšis (1915)|užėmę vokiečiai]], 1920 m. – [[Vilniaus mūšis (1920)|užėmę sovietai]], vėliau aneksavo lenkai, Lietuvos sostinė perkelta į [[Kaunas|Kauną]]. 1919–1939 m. Vilniuje veikė lenkiškas Stepono Batoro universitetas. 1931 m. miestą ištiko didžiulis pavasario potvynis – [[Neris]] buvo pakilusi 825 cm virš nulinės žymos, užlieti net [[Vilniaus arkikatedra|Vilniaus arkikatedros]] rūsiai.
-
-1939 m. prasidėjus [[Antrasis pasaulinis karas|Antrajam pasauliniam karui]] [[Raudonoji armija]] užėmė Vilnių. 1939 m. Vilnius buvo perduotas Lietuvos Respublikai. 1940 m. vasarą kartu su visa Lietuva Vilnius buvo okupuotas ir aneksuotas [[Sovietų Sąjunga|Sovietų Sąjungos]]. 1941 m. vasarą vokiečių kariuomenei užėmus Lietuvą, didžioji dauguma žydų gyventojų tapo [[Nacionalsocializmas|nacionalsocialistų]] vykdytos [[Holokaustas Lietuvoje|žydų naikinimo]] politikos aukomis. Daugelis jų buvo suvaryti į [[Vilniaus getas|getą]] Vilniaus senamiestyje, išvežti į koncentracijos stovyklas ir ten nužudyti. Per karą sugriauta apie 40&nbsp;% namų.
-[[File:Panorama of the Vilnius Old Town, 1944.jpg|thumb|Vilniaus panorama (1944 m., fotografas [[Janas Bulhakas]])]]
-1944 m. Vilnių užėmė sovietai, jis tapo [[Lietuvos SSR]] sostine, atstatytas po karo nuniokojimų. Prasidėjo daugiabučių namų, naujų Vilniaus rajonų statyba. Lietuvą [[Rusinimas|rusinant]] į statomas Vilniuje gamyklas perkelti kitataučiai darbininkai, Vilniaus teritorijoje [[Šiaurės miestelis|Šiaurės miestelyje]] dislokuota [[Sovietinė armija|sovietų armijos]] [[divizija]]. Nuo 1963 m. regiono geležinkeliai tapo pavaldūs [[Pabaltijo geležinkelis|Pabaltijo geležinkelio]] Rygos valdybos Vilniaus apygardai.
-
-Pokariu Vilniuje sparčiai vystėsi ekonomika: mašinų pramonė, metalo apdirbimas, statybų, medienos, lengvoji, maisto, chemijos pramonė. Įkurtos didelės staklių gamyklos („[[Komunaras (gamykla)|Komunaras]]“, „Žalgiris“), elektrotechnikos gamykla „[[Elfa]]“, baldų kombinatai, konditerijos fabrikas „[[Vilniaus pergalė|Pergalė]]“, siuvimo fabrikas „[[Lelija (gamybinis susivienijimas)|Lelija]]“, plastiko, skaičiavimo mašinų gamyklos, mašinų kombinatas. Pastatyta [[Vilniaus termofikacinė elektrinė]].
-
-1987–1991 m. Vilniuje vyko masiniai mitingai, nukreipti prieš sovietinį režimą. [[Kovo 11 aktas|1990 m. kovo 11 d. Lietuva pasiskelbė nepriklausomybę]] nuo [[TSRS|Sovietų sąjungos]]. 1991 m. sausio 9 d. sovietai atsiuntė į Vilnių [[Sovietinė armija|karių]], kurie [[Sausio įvykiai (1991 m.)|sausio 13-ąją]] užėmė [[Vilniaus televizijos bokštas|Televizijos bokštą]], nužudė 14 žmonių.
-
-1994 m. [[Vilniaus senamiestis]] įtrauktas į [[UNESCO pasaulio paveldas|UNESCO Pasaulio kultūros paveldo]] sąrašą. 2009 m. Vilnius [[Vilnius – Europos kultūros sostinė 2009|tapo Europos kultūros sostine]].
-
-== Savivaldybė ==
-{{main|Vilniaus miesto savivaldybė}}
-[[Vaizdas:VMSA by Augustas Didzgalvis.jpg|thumb|left|Savivaldybės pastato fasadas]]
-
-Miesto savivaldybė priklauso [[Vilniaus apskritis|Vilniaus apskričiai]]. Vienintelė miesto savivaldybė Lietuvoje, apimanti ne vieną miestą (kaip kitų miestų savivaldybės), bet du miestus (Vilnių ir [[Grigiškės|Grigiškes]]) bei tris kaimus ([[Grigiškių seniūnija|Grigiškių seniūnijoje]]). Savivaldybės teritorijoje telkšo [[Vilniaus miesto ežerai|18 ežerų]].
-
-Savivaldybės atstovaujamoji valdžia – [[Vilniaus miesto savivaldybės taryba]], vykdomoji valdžia – Vilniaus savivaldybės administracija.
-
-== Ekonomika ==
-{{Tvarkyti|nuo=2020 m. rugsėjo|netvarkingas_nuo=2004 m. kovo}}
-[[Vaizdas:Logo of Vilnius.svg|miniatiūra|Miesto [[logotipas]]]]
-
-[[Baltijos šalys|Baltijos šalių]] finansinis centras. Mieste daug stambių Lietuvos įmonių ir visi Lietuvos bankai. Jis pasižymi sparčiausiais augimo tempais, aukščiausiu [[BVP]] vienam gyventojui. Taip yra dėl [[Sostinė|sostinės]] statuso, valdžios institucijų išsidėstymo, užsienio investicijų.
-
-2020 m. pradžioje mieste veikė ~37 tūkst. įmonės, kuriose dirbo ~358 tūkst. žmonių.{{faktas}}
-
-2019 m. [[Vilniaus miesto savivaldybė|Vilniaus savivaldybės]] biudžetas sudarė ~660 mln. eurų.{{faktas}}
-
-2019 m. mieste pastatyti 4792 gyvenamieji namai. Iš jų 1998 1–2 butų gyvenamieji namai ir 2794 trijų arba daugiau butų gyvenamieji namai. Atlikti statybos darbai, to meto kainomis vertinami, 915 mln. EUR.{{faktas}}
-
-2018 m. [[Vilniaus apskritis|Vilniaus apskrityje]] vienam gyventojui teko 23&nbsp;400 EUR [[BVP]]. Tai daugiau nei du kartus viršijo [[Alytaus apskritis|Alytaus]], [[Marijampolės apskritis|Marijampolės]], [[Tauragės apskritis|Tauragės]], [[Telšių apskritis|Telšių]] ir [[Utenos apskritis|Utenos]] apskričių rodiklius. Palyginti su 2017 m., sukurto BVP dalis padidėjo 1,1 %.
-
-Sostinės regione buvo sukurta 18,9 mlrd. eurų (41,8%) Lietuvos BVP. BVP vienam gyventojui 1,8 karto viršijo Vidurio ir vakarų Lietuvos regiono lygį.<ref>https://osp.stat.gov.lt/informaciniai-pranesimai?articleId=7016550</ref>
-
-2018 m. tiesioginės užsienio investicijos, tenkančios vienam gyventojui, laikotarpio pabaigoje buvo 20&nbsp;586 EUR ir iš viso sudarė 11,4 mlrd. EUR.
-
-Pagaminama 16% Lietuvos gaminių. Veikia 2 šiluminės jėgainės, kiti svarbūs objektai.
-
-Vilniaus turizmo sektorius sparčiai auga ir ženkliai papildo miesto biudžetą.
-{| class="wikitable"
-|+
-|rowspan="2" |
-|colspan="6" |'''Turistų skaičius Vilniaus apgyvendinimo įstaigose¹'''
-|-
-|align=center|'''2014'''
-|align=center|'''2015'''
-|align=center|'''2016'''
-|align=center|'''2017'''
-|align=center|'''2018'''
-|align=center|'''2019'''
-|-
-|Užsieniečiai
-|764 617
-|799 954
-|842 632
-|876 053
-|970 577
-|1 090 113
-|-
-|Lietuvos gyventojai
-|163 786
-|178 887
-|189 622
-|194 683
-|230 281
-|266 654
-|-
-|align=right|'''''Visi turistai:'''''
-|928 403
-|978 841
-|1 032 254
-|1 070 736
-|1 200 858
-|1 356 767
-|}
-¹ — ''Apgyvendinimo įstaigos – viešbučiai ir panašios laikinos buveinės; poilsiautojų ir kitas trumpalaikis apgyvendinimas; poilsinės transporto priemonės, priekabų aikštelės ir stovyklavietės.<ref>https://osp.stat.gov.lt/lt/statistiniu-rodikliu-analize</ref>''
-
-== Susisiekimas ==
-=== Tiltai ===
-{{main|Sąrašas:Tiltai per Vilnią}}
-[[Vaizdas:Baltasis tiltas by Augustas Didzgalvis.jpg|thumb|Baltasis tiltas]]
-[[Vaizdas:Liubarto tiltas, 2006-08-08.jpg|thumb|Liubarto tiltas]]
-[[Vaizdas:Zirmunai Bridge in Vilnius.jpg|thumb|Žirmūnų tiltas]]
-
-Yra 13 tiltų per [[Neris|Nerį]] (3 pėsčiųjų), >20 tiltų per mažesnes upes – [[Vilnia|Vilnią]], [[Veržuva (upė)|Veržuvą]], [[Baltupis|Baltupį]] ir kitas.
-
-{|
-|width=15% valign="top"|
-Tiltai per Nerį (prieš srovę):
-* [[Gariūnų tiltas]]
-* [[Bukčių tiltas]] (''pėsčiųjų'')
-* [[Lazdynų tiltas]]
-* [[Vingio parko tiltas]] (''pėsčiųjų'')
-* [[Liubarto tiltas]]
-* [[Žvėryno tiltas]]
-* [[Geležinio Vilko tiltas]]
-* [[Baltasis tiltas]] (''pėsčiųjų'')
-* [[Žaliasis tiltas (Vilnius)|Žaliasis tiltas]]
-* [[Mindaugo tiltas]]
-* [[Žirmūnų tiltas]]
-* [[Šilo tiltas]]
-* [[Valakampių tiltas|Valakupių tiltas]]
-|width=15% valign="top"|
-Svarbesni tiltai per Vilnią (prieš srovę):
-* [[Pilies tiltas (Vilnius)|Pilies tiltas]]
-* [[Dailės akademijos tiltas]]
-* [[Bernardinų tiltas]]
-* [[Užupio tiltas]]
-* [[Paplaujos tiltas]]
-* [[Zarasų tiltas (Vilnius)|Zarasų tiltas]]
-* [[Belmonto tiltas]]
-* [[Stepono Batoro gatvės tiltas]]
-* [[Rokantiškių geležinkelio tiltas]]
-* [[Pergalės tiltas]]
-* [[Linksmosios gatvės tiltas]]
-|}
-
-=== Keliai ===
-
-Išeina 2 automagistralės: {{A1}} ir {{A2}}.
-
-Ir 5 magistraliniai keliai: {{A3}} (į [[Medininkai|Medininkus]]), {{A4}} (į [[Druskininkai|Druskininkus]]), {{A14}}, {{A15}} (į [[Šalčininkai|Šalčininkus]]) ir {{A16}}.
-
-=== Viešasis transportas ===
-[[Vaizdas:Solaris bus and trolleybuses in Vilnius.jpg|miniatiūra|Vilniaus autobusas [[Solaris Urbino|Solaris Urbino 18]] ir troleibusas Solaris Trollino 12 (fone)]]
-[[Vaizdas:Lašiša, Vilnius.jpg|thumb|Keleivinis elektrinis laivas „Lašiša“ Neryje [[2026]] m.]]
-{{main|Vilniaus viešasis transportas}}
-
-[[Viešasis transportas|Viešąją transportą]] valdo įmonės „Vilniaus viešasis transportas“ ir „[[Transrevis]]“. Kursuoja 20 [[Vilniaus troleibusai|troleibusų maršrutų]], 6 greitieji maršrutai ir 72 [[Sąrašas:Vilniaus autobusų maršrutai|autobusų maršrutai]].<ref>[http://www.vilniustransport.lt/autobusai.html duomenimis] {{Webarchive|url=https://web.archive.org/web/20100207025427/http://www.vilniustransport.lt/autobusai.html |date=2010-02-07 }}</ref> Didžiausias numeris yra 116. Pirmoji linija nutiesta 1955 m., pirmieji [[Troleibusas|troleibusai]] mieste ėmė kursuoti 1956 m. Yra [[Vilniaus funikulierius]].
-
-2012 m. pradžioje į gatves išriedėjo Lietuvoje surinkti troleibusai „Amber Vilnis 12 AC“.<ref>Vilniuje surinkti troleibusai „Amber Vilnis“ išriedės į gatves</ref>
-
-2013 m. liepos 1 d. įsigaliojo viešojo transporto pokyčiai. Atsirado 5 greitieji autobusų maršrutai, atsirado privežamieji maršrutai, juose įrengtos papildomos stotelės. Nebeliko dalies maršrutų, pasikeitė maršrutų trasos ir grafikai, maršrutų numeracija.
-
-2024 m. rugpjūčio 22 d. prasidėjo Vilniaus troleibusų atnaujinimo projektas – į sostinės gatves išvažiavo pirmieji 20 naujų „Škoda 32 Tr“ troleibusų. Iki 2025 m. kovo mėnesio Vilniuje iš viso bus naudojamas 91 naujas tokio tipo troleibusas.<ref>{{cite web |title=Sostinės gatvėmis jau kursuoja 20 naujų troleibusų |url=https://vilnius.lt/naujienos/sostines-gatvemis-jau-kursuoja-20-nauju-troleibusu |date=2024-08-22 |website=vilnius.lt |access-date=2026-02-16}}</ref>
-
-Yra [[Vilniaus geležinkelio stotis]], [[Vilniaus tarptautinis oro uostas]], [[Vilniaus autobusų stotis]].
-
-Veikia privatūs autobusų vežėjai („[[Eurolines]]“, „[[Ollex]]“).
-
-Nuo 2025 m. liepos 26 d. Neries upėje pradėjo veikti elektrinių keleivinių laivų sistema, jungianti penkias prieplaukas mieste: Verslo trikampį, Žvėryno tiltą, Baltąjį tiltą, Žaliąjį tiltą ir Karaliaus Mindaugo tiltą. 2025 m. rudenį sistemą aptarnavo 4 tokio tipo laivai.<ref>[https://judu.lt/vilniuje-rytoj-startuoja-keliones-elektriniu-laivu-nerimi-laivo-krikstamote-tapo-penkiakovininke-ieva-serapinaite/ Vilniuje rytoj startuoja kelionės elektriniu laivu Nerimi – laivo krikštamote tapo penkiakovininkė Ieva Serapinaitė]</ref>
-
-=== Bevielis internetas ===
-
-Veikia dešimtys nemokamo [[Wi-Fi]] zonų:<ref>http://www.cgates.lt/lt/internetas/nemokamas-wifi-mieste</ref><ref>http://www.vilnius.lt/ataskaita/?page_id=1440</ref>
-* Vokiečių gatvė ir „Čili kaimo“ lauko restoranas
-* [[Vilniaus rotušės aikštė|Rotušės aikštė]]
-* [[Konstantinas Sirvydas|Konstantino Sirvydo]] skveras
-* [[Stanislovas Moniuška|Stanislovo Moniuškos]] skveras (prie šv. [[Vilniaus Šv. Kotrynos bažnyčia|Kotrynos bažnyčios]])
-* Mokytojų namų kiemelis
-* [[Baltasis tiltas|Baltojo tilto]] poilsio zona
-* [[Katedros aikštė]]
-* Odminių skveras (priešais [[Katedros aikštė|Katedros aikštę]])
-* [[Vinco Kudirkos aikštė]]
-* [[Vilniaus gatvė (Vilnius)|Vilniaus gatvė]]
-* [[Europos aikštė]]
-
-== Gyventojai ==
-{{Atnaujinti|Atnaujinti grafiką, be paaiškinimo paveikslėlis}}
-[[Vaizdas:Vilniaus gyventojai pagal gimimo metus.JPG|kairėje|frameless|800px|Vilniaus gyventojų pasiskirstymas pagal gimimo metus]]
-{{dem|kolon=10|till=600000|inc=100000|incmin=20000|width=1430
-|1769|17500
-|1811|56300
-|1818|33600
-|1823|46700
-|1834|52300
-|1859|58200
-|1860|60040|r1860=<ref name="GSSRI">{{GSSRI|1|460|Вильно}}</ref>
-|1875|82700
-|1889|109329|r1889=<ref name="ESBE"/>
-|1897|154532
-|1909|205200
-|1916|140800
-|1919|128500
-|1923|167400|r1923=<ref>{{1923sur}}</ref>
-|1931|195071
-|1939|209442
-|1941|270000
-|1944|110000
-|1951|179000
-|1959|236100|r1959=<ref name="1959-70sur">{{1959-70sur}}</ref>
-|1970|372000|r1970=<ref name="MLTE">{{MLTE|3|778||Vilnius}}</ref>
-|1979|475825|r1979=<ref>{{1979sur}}</ref>
-|1983|525000|r1983=<ref name="LTE">{{LTE|12|271||Vilnius}}</ref>
-|1987|566000
-|1988|578500|r1987=<ref name="TLE">{{TLE|4|558||Vilnius}}</ref>
-|1989|582500|r1989=<ref>{{1989sur}}</ref>
-|1991|597700
-|2001|542287|r2001=<ref>{{2001sur(Vilnius)}}</ref>
-|2007|542782
-|2011|542932
-|2017|545033
-|2021|546155|r2021=<ref>{{2021sur}}</ref>
-|2023|581475|r2023=<ref name="stat.gov.lt/2023">stat.gov.lt / [https://osp.stat.gov.lt/web/guest/statistiniu-rodikliu-analize?hash=671bd94d-a0f4-424f-b919-f5da1d19c30a#/ Nuolatinių gyventojų skaičius miestuose metų pradžioje]</ref>
-}}
-
-{{Atnaujinti|Atnaujinti duomenis}}
-{|class="wikitable sortable" style="text-align:center;"
-|-
-|colspan="14" style="background:#CCC; color:black"|'''Kintanti Vilniaus gyventojų etninė sudėtis'''
-|- style="background:#95b2c9;"
-! Metai
-! Lietuviai
-! %
-! Lenkai
-! %
-! Rusai
-! %
-! Žydai
-! %
-! Gudai
-! %
-! Kiti
-! %
-! IŠ VISO
-|-
-|'''1897'''<ref>{{ru icon}} [http://demoscope.ru/weekly/ssp/rus_lan_97_uezd.php?reg=91 г. Вильна] Первая всеобщая перепись населения Российской Империи 1897 г.</ref>
-|3,131
-|'''2'''
-|47,795
-|'''30.1'''
-|30,967
-|'''20'''
-|61,847
-|'''40'''
-|6,514
-|'''4.2'''
-|10,792
-|'''6.9'''
-|154,532
-|-
-|'''1931'''<ref name="Der Große Brockhaus 1935, p. 348">''Der Große Brockhaus''. 15th edition, vol. 20, Leipzig 1935, p. 348.</ref>
-|1,579
-|'''0.8'''
-|128,600
-|'''65.5'''
-|7,400
-|'''3.8'''
-|54,600
-|'''27.8'''
-|1,700
-|'''0.9'''
-|4,166
-|'''2.1'''
-|196,345
-|-
-|'''1959'''<ref name="Snyder 92-93">Timothy Snyder, ''The Reconstruction of Nations'', p. 92-93, 2003 New Haven & London, Yale University Press, ISBN 978-0-300-10586-5</ref>
-|79,400
-|'''34'''
-|47,200
-|'''20'''
-|69,400
-|'''29'''
-|16,400
-|'''7'''
-|14,700
-|'''6'''
-|9,000
-|'''3,8'''
-|236,100
-|-
-|'''2001'''<ref>[http://www.stat.gov.lt/vilniussampling/vskaiciais/05_gyventojai.pdf Vilnius Regional Statistical Office] {{Webarchive|url=https://web.archive.org/web/20120417122827/http://www.stat.gov.lt/vilniussampling/vskaiciais/05_gyventojai.pdf |date=2012-04-17 }}</ref>
-|318,510
-|'''57.5'''
-|104,446
-|'''18.9'''
-|77,698
-|'''14.1'''
-|300
-|'''0.5'''
-|22,555
-|'''4.1'''
-|30,695
-|'''5.5'''
-|553,904
-|-
-|'''2012'''<ref>[http://www.stat.gov.lt/uploads/Lietuvos_gyventojai_2011.pdf Statistics Department of Lithuania] {{Webarchive|url=https://web.archive.org/web/20200229144415/https://www.stat.gov.lt/uploads/Lietuvos_gyventojai_2011.pdf |date=2020-02-29 }}</ref>
-|337,000
-|'''63.2'''
-|88,380
-|'''16.5'''
-|64,275
-|'''12'''
-|N/A
-|'''N/A'''
-|18,750
-|'''3.5'''
-|25,710
-|'''4.8'''
-|535,631
-|}
-
-=== Religinė sudėtis ===
-
-2011 m.:
-* [[Romos katalikai]] – 65,5 %
-* [[Stačiatikiai]] – 8,9 %
-* [[Sentikiai]] – 1,0 %
-* [[Evangelikai liuteronai]] – 0,3 %
-* [[Evangelikai reformatai]] – 0,2 %
-* [[Musulmonai]] – 0,1 %
-* [[Judėjai]] – 0,1 %
-* Kiti – 1,0 %
-* Netikintys/nenurodė – 22,7 %
-
-=== Žymūs žmonės ===
-
-Kultūros ir mokslo lopšys. Gyveno, dirbo, kūrė [[Laurynas Stuoka-Gucevičius]], [[Adomas Mickevičius]], [[Česlovas Milošas]], [[Juozas Tumas-Vaižgantas]], [[Mikalojus Konstantinas Čiurlionis]], [[Simonas Stanevičius]], [[Žemaitė]], [[Simonas Daukantas]], [[Liudas Gira]], [[Petras Cvirka]]. Gimė ir gyveno smuikininkas–virtuozas [[Jaša Heifecas]], vaikystę praleido vienas drabužių parduotuvių tinklo „Marks and Spencer“ įkūrėjų Mikelis Marksas.
-
-== Miesto objektai ==
-[[Vaizdas:Vilnus Montage (2016).png|miniatiūra|kairėje|Iš kairės į dešinę:{{hlist|[[Vilniaus Šv. Onos bažnyčia|Šv. Onos]] ir [[Vilniaus Šv. Pranciškaus Asyžiečio bažnyčia|Bernardinų]] bažnyčių ansamblis|[[Gedimino bokštas]]|[[Aušros vartai]]|[[Pilies gatvė]]|[[Šnipiškės]]|[[Lietuvos Respublikos prezidentūra]]}}]]
-
-=== Aukštutinė pilis ===
-[[Vaizdas:Gedimino pilis by Augustas Didzgalvis.jpg|miniatiūra]]
-{{main|Vilniaus Aukštutinė pilis}}
-
-Gedimino kalno ovalioje aikštelėje stūkso [[Vilniaus Aukštutinė pilis|Vilniaus aukštutinės pilies]] liekanos su [[Gedimino bokštas|Gedimino bokštu]]. Kalno aukštis nuo papėdės siekia 47–48 m. Pasižymi stačiais šlaitais (35°–40°).
-
-=== Katedros aikštė ===
-[[Vaizdas:Vilnius (Wilno) - cathedral.jpg|miniatiūra|Katedros aikštė]]
-{{main|Katedros aikštė}}
-
-[[Vilnelė]]s ir [[Neris|Neries]] santakoje susiformavusi erdvė, kurioje kaip miniatiūroje atsispindi ne tik Vilniaus, bet ir visa [[Lietuvos istorija]]. Visos šios istorijos liudininkai yra pagrindinė Lietuvos šventykla – [[Vilniaus arkikatedra]], taip pat su miesto įkūrėju [[Gediminas|Gediminu]] siejamos [[Vilniaus Aukštutinė pilis|Vilniaus Aukštutinė]] bei [[Žemutinė pilis|Žemutinė]] pilys. [[Aukštutinė pilis|Aukštutinę pilį]] mena Vilniaus simboliu tapęs [[Gedimino bokštas]] (nuo kurio atsiveria vieni gražiausių vaizdų į Vilnių ir jo [[Vilniaus senamiestis|senamiestį]]), o [[Žemutinė pilis|Žemutinę]] – šiandien atkurti XVIII a. pab. nugriauti [[Valdovų rūmai]]. Anapus [[Vilnelė]]s kalvose matomi [[Trijų Kryžių paminklas|Trys kryžiai]], sukurti 1916 m. pagal [[Antanas Vivulskis|Antano Vivulskio]] projektą, kurie ženklina seniausių laikų Gedimino Vilnių.<ref>Virtualus istorinis Vilnius. 10 Vilniaus erdvių.</ref>
-
-=== Rotušės aikštė ===
-[[Vaizdas:Rotuses aikste by Augustas Didzgalvis.jpg|miniatiūra]]
-{{main|Rotušės aikštė}}
-
-Svarbiausia „miestietiškojo” Vilniaus erdvė – nuo vidurmažių miesto savivaldą simbolizavusios Rotušės aikštė. Jos centre – klasicistinė [[Vilniaus rotušė|Rotušė]], sukurta žymiausio šio stiliaus architekto Lietuvoje, [[Vilniaus arkikatedra|Katedros]] autoriaus [[Laurynas Stuoka-Gucevičius|Lauryno Gucevičiaus]], savo stiliumi sujungianti dviejų pagrindinių senojo Vilniaus aikščių – Katedros ir Rotušės – urbanistinius akcentus. [[Vilniaus rotušės aikštė|Rotušės aikštės]] tolimiausiame kampe – [[Vilniaus Šv. Kazimiero bažnyčia|Šv. Kazimiero bažnyčia]], kuri yra vienas ankstyviausių [[Barokas|Baroko]] paminklų Vilniuje. Bažnyčios [[kertinis akmuo]] padėtas 1604 m. Lietuvos globėjo karalaičio [[Šv. Kazimieras|šv. Kazimiero]] kanonizacijai skirtų iškilmių, kurios tapo simboline Baroko epochos pradžia Lietuvoje.
-
-=== Aušros Vartai ===
-Nuo [[Vilniaus rotušės aikštė|Rotušės aikštės]] [[Aušros vartai|Aušros vartų]] gatvė veda link vienintelių likusių gynybinės sienos Aušros vartų. Prie jų yra svarbiausias šios vietos akcentas – Aušros Vartų koplyčia su garsiuoju [[Aušros Vartų Švč. Mergelės Marijos, Gailestingumo Motinos, koplyčia|Švč. Mergelės Marijos paveikslu]], kurį išgarsino didieji Vilniaus romantikai [[Adomas Mickevičius]] ir [[Julijus Slovackis]]. Aušros Vartų koplyčia – vienas svarbiausių [[Marija (Jėzaus motina)|Švč. Mergelės Marijos]] kulto centrų visoje [[Vidurio Europa|Vidurio Europoje]], [[Lenkija|Lenkijoje]] reikšme ir garsu lygintinas tik su [[Čenstakavos sanktuariumas|Čenstakavos sanktuariumu]]. Aušros Vartų erdvė primena, kad Vilnius yra „Šiaurės Jeruzalė” ne tik dėl vaidmens [[Žydai|žydų]] kultūroje. Čia greta glaudžiasi trys [[Krikščionybė|krikščioniškos]] konfesijos. Šalia Aušros Vartų – dar ir katalikų [[Šv. Teresės bažnyčia]] ir karmelitų vienuolynas, o greta – stačiatikių Šv. Dvasios cerkvė, kurioje yra XIV a. Vilniaus stačiatikių [[Kankinys|kankinių]] palaikai. Kitoje gatvės pusėje už [[Jonas Kristupas Glaubicas|Jono Kristupo Glaubico]] projektuotų vartų yra ir graikų apeigų katalikų [[Bazilijonų vienuolynas]] bei Švč. Trejybės cerkvė.
-
-=== Trijų Kryžių paminklas ===
-[[Vaizdas:Vilnius, Trys Kryžiai.jpg|thumb|Trijų Kryžių paminklas]]
-{{main|Trijų Kryžių paminklas}}
-
-Paminklas (trys balti gelžbetoniniai kryžiai) [[Kalnų parkas|Kalnų parke]], ant Plikojo kalno ([[architektas]] [[Antanas Vivulskis]]). Priklauso [[Vilniaus pilių kultūrinis rezervatas|Vilniaus pilių rezervatui]].
-
-=== Televizijos bokštas ===
-{{main|Vilniaus televizijos bokštas}}
-
-Aukščiausias (326,4 m) Lietuvos statinys. Yra [[Karoliniškės|Karoliniškėse]], prie [[Neris|Neries]] šlaito. 165 m aukštyje įrengta kavinė „Paukščių takas“.
-
-=== Rasų kapinės ===
-{{main|Rasų kapinės}}
-
-Įkurtos 1796 m., vienos seniausių ir svarbiausių šalies kapinių. Čia palaidoti [[Jonas Basanavičius]], [[Mikalojus Konstantinas Čiurlionis]], [[Vincas Mykolaitis-Putinas]], [[Mykolas Romeris]], [[Balys Sruoga]] ir kiti.
-
-=== Europos aikštė ===
-[[Vaizdas:Europos aikste by Augustas Didzgalvis.jpg|miniatiūra|Europos aikštė]]
-{{main|Europos aikštė}}
-
-Dešiniajame [[Neris|Neries]] krante, [[Konstitucijos prospektas|Konstitucijos prospekte]], įsikūrusi [[Europos aikštė]] yra vienas didžiausių verslo traukos centrų Vilniuje ir Lietuvoje. Čia įsikūręs 2004 m. atidarytas [[Europos bokštas]] – aukščiausias pastatas [[Baltijos šalys]]e, [[Vilniaus miesto savivaldybė]]s, [[Vilniaus verslo uostas|Vilniaus verslo uosto]] pastatai.
-
-=== Pamėnkalnis ===
-{{main|Pamėnkalnis}}
-
-Pamėnkalnis yra Vilniaus centre (jo viršūnėje gerai matomi stovi Profsąjungų rūmai, o giliau – [[Vilniaus miesto santuokų rūmai|Santuokų rūmai]]) tarp Pamėnkalnio, V. Kudirkos, K. Kalinausko ir Tauro gatvių.
-
-Dažnai dar vadinamas Tauro kalnu arba Taurakalniu. Nors legenda pastarąjį pavadinimą sieja su ant jo baubusiu, neva, didžiuliu [[Tauras|tauru]], Lietuvos girių karaliumi (tuo pakeliant kalno rangą pagal svarbumą į „karališką“ lygį), tikra šio žodžio kilmė yra nuo dignitoriaus Juozapo Boufalo, kuriam priklausė kalno žemė ar tik jos dalis. Tad vietos gyventojai kalną pradėjo vadinti savininko vardu – ''Góra Bouffałowa''. Dar vienas šio kalno pavadinimas, anot archeologo Vykinto Vaitkevičiaus, yra Velniakalnis.
-
-== Švietimo ir ugdymo įstaigos ==
-: ''Visų Vilniaus mokyklų kategorija – [[:Kategorija:Vilniaus mokyklos|Vilniaus mokyklos]].''
-
-=== Universitetai ===
-[[Vaizdas:Vilnius University campus by Augustas Didzgalvis.jpg|miniatiūra|[[VU]] kiemelių ansamblis]]
-*[[Vilniaus universitetas]]<ref>https://www.turizmas.lt/lankytinos-vietos/Vilniaus-universitetas/13554</ref>
-* [[Lietuvos muzikos ir teatro akademija]]
-* [[Vilniaus dailės akademija]]
-* [[Vilniaus Gedimino technikos universitetas]]
-* [[Vilniaus kolegija]]
-* [[Mykolo Romerio universitetas]]
-
-=== Nevalstybinės aukštosios mokyklos: ===
-* [[ISM Vadybos ir ekonomikos universitetas]]
-* [[Europos Humanitarinis Universitetas]]
-* [[Vilniaus Šv. Juozapo kunigų seminarija]]
-* [[Vilniaus universiteto Tarptautinio verslo mokykla]]
-* [[Kazimiero Simonavičiaus universitetas]]
-
-Kitos aukštosios mokyklos:
-* [[Balstogės universiteto Vilniaus Ekonomikos-informatikos fakultetas]]
-
-=== Bendrojo lavinimo mokyklos ===
-* [[Vilniaus Juozo Tallat-Kelpšos konservatorija|Juozo Tallat-Kelpšos konservatorija]]
-* [[Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla]]
-* [[Vilniaus licėjus]]
-* 2 jaunimo mokyklos
-* 18 gimnazijų
-* 62 vidurinės mokyklos
-* 32 pagrindinės mokyklos
-* 21 pradinė mokykla
-* 14 mokyklų-darželių
-
-=== Profesinio mokymo įstaigos ===
-* [[Slaugos darbuotojų tobulinimosi ir specializacijos centras]]
-* [[Ugniagesių gelbėtojų mokykla]]
-* [[Vilniaus Jeruzalės darbo rinkos mokymo centras]]
-* [[Vilniaus statybininkų rengimo centras]]
-* [[Vilniaus Žirmūnų darbo rinkos mokymo centras]]
-* [[Vilniaus automechanikos ir verslo mokykla]]
-* [[Vilniaus geležinkelio transporto ir verslo paslaugų mokykla]]
-* [[Vilniaus komunalinių paslaugų mokykla]]
-* [[Vilniaus paslaugų verslo darbuotojų profesinio rengimo centras]]
-* [[Vilniaus technologijų ir verslo profesinio mokymo centras]]
-* [[Vilniaus technologijų mokymo ir reabilitacijos centras]]
-* [[Vilniaus turizmo ir prekybos verslo mokykla]]
-* [[Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos Pasieniečių mokykla|Pasieniečių mokykla]] ([[Medininkai|Medininkuose]])
-* [[Vilniaus technologijų, verslo ir žemės ūkio mokykla]] ([[Baltoji Vokė (Vilnius)|Baltojoje Vokėje]])
-* [[Mokykla „Art of Beauty“]]
-* [[Kompiuterinių programų mokymo centras]]
-* [[Respublikinis energetikų mokymo centras]]
-
-=== Bibliotekos ===
-* [[Nacionalinė Martyno Mažvydo biblioteka]]
-* [[Vilniaus apskrities Adomo Mickevičiaus viešoji biblioteka]]
-* [[Vilniaus miesto savivaldybės centrinė biblioteka]]
-* [[Vilniaus universiteto biblioteka]]
-
-== Kultūra ==
-=== Senamiestis ===
-{{main|Vilniaus senamiestis}}
-
-1994 m. į [[UNESCO]] [[Pasaulio paveldo sąrašas|Pasaulio paveldo sąrašą]] įtrauktas [[urbanistikos paminklas]]. Kartais vadinamas didžiausiu Europos senamiesčiu. Įšlikę autentiškų XIV–XIX a. pastatų. Miestas yra vienas iš [[Europos plytų gotikos kelias|Europos plytų gotikos kelio]] stočių.
-
-=== Religija ===
-Yra 23 [[Vienuolynas|vienuolynai]] (daugiausiai Lietuvoje).
-
-==== Katalikai ====
-[[Vaizdas:St. Anne's Church Exterior 1, Vilnius, Lithuania - Diliff.jpg|thumb|[[Vilniaus Šv. Onos bažnyčia|Šv. Onos bažnyčia]]]]
-
-Yra ~40 įvairių stilių [[Katalikai|katalikų]] bažnyčių (daugiau apie jas žr. [[:Kategorija:Vilniaus bažnyčios|čia]], koplyčias – [[:Kategorija:Vilniaus koplyčios|čia]]):
-* [[Vilniaus Dievo Apvaizdos, Švč. Jėzaus Širdies parapijos bažnyčia|Dievo Apvaizdos, Švč. Jėzaus Širdies parapijos bažnyčia]];
-* [[Vilniaus Visų Šventųjų bažnyčia|Visų Šventųjų bažnyčia]];
-* [[Vilniaus Šv. apaštalų Pilypo ir Jokūbo bažnyčia|Šv. apaštalų Pilypo ir Jokūbo bažnyčia]];
-* [[Vilniaus Šv. Teresės bažnyčia|Šv. Teresės bažnyčia]];
-* [[Vilniaus Šv. arkangelo Rapolo bažnyčia|Šv. arkangelo Rapolo bažnyčia]];
-* [[Vilniaus Šventosios Dvasios bažnyčia|Šventosios Dvasios bažnyčia]]
-* [[Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia|Šv. apaštalų Petro ir Povilo bažnyčia]];
-* [[Vilniaus Šv. Mikalojaus bažnyčia|Šv. Mikalojaus bažnyčia]]
-* [[Vilniaus Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia|Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia]];
-* [[Vilniaus Šv. Onos bažnyčia|Šv. Onos bažnyčia]]
-* [[Vilniaus Šv. Jono Krikštytojo ir Šv. Jono apaštalo ir evangelisto bažnyčia|Šv. Jono Krikštytojo ir Šv. Jono apaštalo ir evangelisto bažnyčia]];
-* [[Vilniaus Šv. Stanislovo ir Šv. Vladislovo arkikatedra bazilika|Vilniaus arkikatedra bazilika]]
-* [[Vilniaus Aušros Vartų Švč. Mergelės Marijos, Gailestingumo Motinos, koplyčia|Aušros Vartų Švč. Mergelės Marijos, Gailestingumo Motinos, koplyčia]].
-
-==== Sentikiai ====
-1825~1830 m. įsikūrė [[sentikiai]]. Viena didžiausių sentikių bendruomenių [[Baltijos šalys|Baltijos šalyse]]. Jiems priklauso 1904–1905 m. pastatyta [[Vilniaus Švč. Dievo Motinos Užtarėjos sentikių cerkvė]], nuo XIX a. pradžios veikiančios kapinės.
-
-==== Kitos religijos ====
-Yra [[Vilniaus Dievo Motinos Ėmimo į Dangų katedra]], [[Vilniaus Šv. Dvasios vienuolyno katedra]] su vienuolynu ir kitos stačiatikių cerkvės (daugiau jas žr. [[:Kategorija:Vilniaus cerkvės|čia]]), [[Vilniaus evangelikų liuteronų bažnyčia]], [[Vilniaus evangelikų reformatų bažnyčia]], dvi žydų religinės bendruomenės, ''morse'' stiliumi statyta žydų [[Vilniaus sinagoga|sinagoga]], musulmonų sunitų bendruomenė ir kt.
-<gallery>
-Vaizdas:Vilnius HMG Orthodox church.jpg|[[Vilniaus Dievo Motinos Ėmimo į Dangų katedra]]
-Vaizdas:Vilniaus sinagoga.jpg|[[Vilniaus sinagoga]]
-</gallery>
-
-=== Muziejai ===
-[[Vaizdas:LNDM Gintare Grigenaite 1661.jpg|miniatiūra|[[Vilniaus paveikslų galerija]]]]
-[[Vaizdas:Vilnius, MO muziejus.jpg|miniatiūra|[[MO muziejus]]]]
-
-* [[Lietuvos nacionalinis dailės muziejus]]
-** [[Vilniaus paveikslų galerija]]
-** [[Nacionalinė dailės galerija]]
-** [[Radvilų rūmai|Radvilų rūmų dailės muziejus]]
-** [[Taikomosios dailės ir dizaino muziejus]]
-** [[Vytauto Kasiulio dailės muziejus]]
-* [[Lietuvos nacionalinis muziejus]]
-** [[Signatarų namai]]
-* [[Adomo Mickevičiaus muziejus Vilniuje]]
-* [[Automuziejus Vilnius]]
-* [[Bažnytinio paveldo muziejus]]
-* [[Energetikos ir technikos muziejus]]
-* [[Geležinkelių muziejus]]
-* [[Okupacijų ir laisvės kovų muziejus]]
-* [[Jono Meko vizualiųjų menų centras]]
-* [[MO muziejus]]
-* [[Šiuolaikinio meno centras]]
-* [[Lietuvos teatro, muzikos ir kino muziejus]]
-* [[Valstybinis Vilniaus Gaono žydų muziejus]]
-* [[Venclovų namai-muziejus]]
-* [[Vilniaus dailės akademijos muziejus]]
-* [[Vilniaus universiteto planetariumas]]
-* [[Žaislų muziejus]]
-
-== Sportas ==
-Yra [[Žalgirio stadionas]], [[LFF stadionas]], [[Vingio parko stadionas]], [[Kalnų parko stadionas]], [[Avia Solutions Group arena|„Avia Solutions Group“ arena]] (iki 2020 m. lapkričio „Siemens“ arena), [[Vilniaus pramogų arena|Pramogų arena]], „[[Sportima arena]]“. Didžiausias plaukimo [[baseinas]] – sportinis, 50 metrų [[Lazdynų baseinas]].
-
-2011 m. rugsėjo 7–12 d. [[Avia Solutions Group arena|„Siemens“ arenoje]] vyko [[2011 m. Europos krepšinio čempionatas|XXXVII Europos vyrų krepšinio čempionato]] antrojo etapo varžybos.
-
-Miestui atstovauja [[Vilniaus Rytas|„Ryto“]], [[Vilniaus Sakalai|„Sakalų“]] ir [[Vilniaus Perlas|„Perlo“]] krepšinio klubai, taip pat „[[FK Žalgiris|Žalgirio]]“ futbolo klubas.
-
-== Literatūra ==
-* {{ML|1|79|Vilnius}}
-* {{ESBE|1(p)|021/21159|Вильна|422}}
-* {{EB11|28|Vilna or Wilno|88}}
-* {{CE11|Vilna, Russia (Capital)}}
-* {{OE11|VAN_VIR/VILNA_or_WILNO|Vilna, or Wilno}}
-
-== Šaltiniai ==
-{{Išnašos}}
-
-== Nuorodos ==
-=== Apie Vilnių ===
-* vilnius.lt / [http://www.vilnius.lt Oficiali miesto svetainė]
-* vilnius-airport.lt / [https://www.vilnius-airport.lt/lt/ Vilniaus oro uostas]
-* skyscraperpage.com / [http://skyscraperpage.com/diagrams/?cityID=985 Vilniaus aukščiausių pastatų diagrama]
-* vilniauszinia.lt / [http://vilniauszinia.lt/ Vilniaus renginiai, parodos, pramogos]
-
-=== Žemėlapiai ===
-* google.com / [https://www.google.com/maps/place/Vilnius,+Lithuania/@54.7003614,24.972858,10z/data=!3m1!4b1!4m5!3m4!1s0x46dd93fb5c6408f5:0x400d18c70e9dc40!8m2!3d54.6871555!4d25.2796514 Vilniaus miesto ribos]
-* archive.org / panoramas.lt / [http://www.panoramas.lt/index.php?lg=2&page_id=19 Vilniaus žemėlapis su panoramomis] {{Webarchive|url=https://web.archive.org/web/20110720133642/http://www.panoramas.lt/index.php?lg=2&page_id=19 |date=2011-07-20 }}
-* zemelapis.info / [http://zemelapis.info/atlasas/vilniaus/5 Vilniaus miesto žemėlapis]
-* balticmaps.eu / [http://www.balticmaps.eu/?lang=en&draw_hash=izieyy&centerx=582677&centery=6060490&zoom=3&layer=map Vilniaus centro ir senamiesčio žemėlapis]
-* maps.lt / [http://www.maps.lt/map/?lang=lt#obj=582952;6061343;Pa%C5%BEym%C4%97tas%20ta%C5%A1kas;&xy=582962,6061351&z=10000&lrs=orthophoto,stops Vilniaus senamiesčio palydovinė nuotrauka]
-* google.co.uk / [https://www.google.co.uk/maps/@54.689511,25.294991,12z Vilniaus žemėlapis su nuotraukomis]
-* archive.org / vilniauszemelapis.lt / [http://www.vilniauszemelapis.lt Vilniaus žemėlapis] {{Webarchive|url=https://web.archive.org/web/20180507043839/http://www.vilniauszemelapis.lt/ |date=2018-05-07 }}
-
-=== Nuotraukos ===
-* gigapan.org / [http://www.gigapan.org/gigapans/fullscreen/53111/ Vilniaus panorama]
-* plakatai.my1.ru / [http://plakatai.my1.ru/photo/7-1 Senojo Vilniaus vaizdai]
-* archive.org / freewebs.com / [http://www.freewebs.com/vilnius_80/ Vilnius 1980 m. (nuotraukų albumas)] {{Webarchive|url=https://web.archive.org/web/20060116042032/http://www.freewebs.com/vilnius_80/ |date=2006-01-16 }}
-
-{{Europos šalių sostinės}}
-{{Lietuvos sostinės}}
-{{VLNMgyv}}
-{{SavStr}}
-
-[[Kategorija:Vilnius| ]]
+
+
+Wikipédial'encyclopédie libre
+Rechercher sur Wikipédia
+Rechercher
+Faire un don
+Créer un compte
+Se connecter
+Banner 1 logo	
+Modifiez avec fierté et gagnez ! Participez à Wiki Loves Pride 2026
+
+Banner 2 logo
+Sommaire masquer
+Début
+Géographie
+
+Histoire
+
+Politique et administration
+
+Population et société
+
+Économie
+
+Éducation
+Culture
+
+Sports
+Symboles
+Notes et références
+
+Voir aussi
+
+Angleterre
+
+Article
+Discussion
+Lire
+Modifier
+Modifier le code
+Voir l’historique
+
+Outils
+Apparence masquer
+Taille du texte
+
+Petite
+
+Standard
+
+Grande
+Largeur
+
+Standard
+
+Large
+Couleur (bêta)
+
+Automatique
+
+Clair
+
+Sombre
+53° nord, 1° ouest
+Page d’aide sur l’homonymie	
+Angleterre se dit « England » en anglais. Pour les autres significations, voir England.
+
+Page d’aide sur l’homonymie	
+Cet article concerne l'Angleterre dans son ensemble et sa forme politique actuelle. Pour l'ancien État souverain, voir Royaume d'Angleterre.
+
+Page d’aide sur l’homonymie	
+Ne doit pas être confondu avec Royaume-Uni ou Grande-Bretagne.
+
+Angleterre
+England (en)
+
+Blason de Angleterre
+Armoiries de l'Angleterre.	Drapeau de Angleterre
+Drapeau de l'Angleterre.
+Image illustrative de l’article Angleterre
+Localisation de l'Angleterre (vert foncé) au sein du Royaume-Uni (vert clair), en Europe.
+Administration
+Pays	Drapeau du Royaume-Uni Royaume-Uni
+Statut politique	Nation constitutive du Royaume-Uni
+Capitale	Londres
+Gouvernement	Administration directe par le Gouvernement du Royaume-Uni.
+Roi	Charles III (en tant que roi du Royaume-Uni)
+Démographie
+Gentilé	Anglais
+Anglaise
+Population	56 489 800 hab. (2021)
+Densité	434 hab./km2
+Langue(s)	Anglais
+Cornique (régional)
+Géographie
+Coordonnées	53° nord, 1° ouest
+Superficie	130 279 km2
+Divers
+Monnaie	Livre sterling
+Fuseau horaire	UTC (été +1)
+Domaine internet	.uk
+Indicatif téléphonique	+44
+Hymne	Divers (principalement God Save the King)
+Devise	Aucune
+Code ISO 3166-1	GB-ENG
+modifier 
+L'Angleterre (en anglais : England /ˈɪŋɡlənd/ Écouterⓘ) est une nation constitutive du Royaume-Uni. Elle est entourée par le pays de Galles à l'ouest et l'Écosse au nord, et par la mer d'Irlande au nord-ouest, la mer Celtique au sud-ouest, la mer du Nord à l'est, et la Manche au sud, qui la sépare de l'Europe continentale. Son territoire couvre cinq-huitièmes de l'île de Grande-Bretagne, qui est située dans l'Atlantique Nord, et il comprend plus de cent petites îles, comme celles de Scilly et de Wight.
+
+Le territoire anglais commence à être peuplé durant le Paléolithique supérieur ; il tire son nom des Angles, un peuple germanique dont le nom est dérivé d'Angeln qui s'installe entre le Ve siècle et le VIe siècle. L'Angleterre devient un État unifié en 927, et a une influence culturelle et juridique considérable sur le reste du monde, depuis les grandes découvertes. La langue anglaise, l'Église anglicane et le droit anglais (la base du système juridique de la common law, servant dans de nombreux autres pays à travers le monde) se sont développés en Angleterre, et le système parlementaire du pays est adopté par un grand nombre de nations étrangères. La révolution industrielle commence en Angleterre au XVIIIe siècle, et transforme sa société en la première nation industrialisée du monde.
+
+Le centre et le sud de l'Angleterre sont principalement constitués de basses collines et de plaines, tandis que le nord (avec le district du Lac et les Pennines) et l'ouest (avec le Dartmoor et les collines (en) du comté de Shrops) sont principalement constitués de hautes terres montagneuses. La capitale est Londres, qui constitue la plus grande aire métropolitaine du Royaume-Uni. La population de l'Angleterre est de 56,3 millions d'habitants[réf. nécessaire], et elle comprend plus de 84 % de la population britannique. Elle est largement concentrée autour de Londres, dans le Sud-Est, dans les conurbations des Midlands, au Nord-Ouest, au Nord-Est, et dans le comté d'York. Chacune d'entre elles s'est développée en tant que grande région industrielle, au cours du XIXe siècle et même de la fin du siècle précédent.
+
+Le royaume d'Angleterre (auquel s'ajoute le pays de Galles après 1542) cesse d'être un État souverain le 1er mai 1707, lorsque les Actes d'Union font entrer en vigueur les accords convenus dans le traité d'Union de l'année précédente. Ils mènent à une union politique avec le royaume d'Écosse, pour former le royaume de Grande-Bretagne. En 1801, la Grande-Bretagne s'unifie avec le royaume d'Irlande, à travers un autre Acte d'Union, pour devenir le Royaume-Uni de Grande-Bretagne et d'Irlande. En 1922, l'État libre d'Irlande fait sécession du Royaume-Uni, ce qui le conduit à être renommé « Royaume-Uni de Grande-Bretagne et d'Irlande du Nord ». Le nom d'« Angleterre » est fréquemment employé, par abus de langage, pour désigner le Royaume-Uni dans son ensemble.
+
+Géographie
+Article détaillé : Géographie de l'Angleterre.
+Paysages et environnement
+Deux tiers de la Grande-Bretagne, au sud et au centre, constituent l'Angleterre, ainsi que quelques îles au large comme l’île de Wight ou les îles Scilly. Le pays constitutif est frontalier de deux autres pays du Royaume-Uni — l'Écosse au nord et le pays de Galles à l'ouest —, et est plus proche de l'Europe continentale que toute autre île britannique. L’Angleterre est séparée de la France par un corridor maritime de 34 kilomètres[1], même si le tunnel sous la Manche les relie près de Folkestone[2]. L’Angleterre possède aussi des littoraux sur la mer d’Irlande, la mer du Nord et l’océan Atlantique.
+
+Les ports de Londres, de Liverpool et de Newcastle upon Tyne se trouvent respectivement à l’embouchure de la Tamise, de la Mersey et de la Tyne. La Severn est la plus longue rivière d’Angleterre, sur 354 kilomètres[3]. Elle se jette dans le canal de Bristol et est célèbre pour ses lames de fond de plus de 2 mètres de hauteur (dans le mascaret de Severn)[4]. Cependant, la plus longue rivière entièrement en Angleterre est la Tamise, longue de 346 kilomètres. Il y a de nombreux lacs, le plus grand étant le Windermere dans le bien nommé Lake District[5].
+
+Les Pennines, dites la « colonne vertébrale de l’Angleterre », est la plus ancienne chaîne montagneuse de la région, apparue à la fin de l’ère paléozoïque il y a environ 300 millions d’années[6]. Elle se compose principalement de grès, de calcaire et de charbon. Il y a des paysages karstiques dans des régions riches en calcite, comme le Yorkshire ou le Derbyshire par exemple. Les Pennines sont couvertes de landes en altitude, dentelées de vallées fertiles grâce aux rivières. Elles contiennent trois parcs nationaux, les Yorkshire Dales, le Northumberland et le Peak District. Le point culminant de l’Angleterre, à 978 mètres, est le Scafell Pike, dans le comté de Cumbria[5]. À cheval sur la frontière entre l’Angleterre et l’Écosse se trouvent les monts Cheviot[7],[8].
+
+Les terres basses de l’Angleterre se trouvent au sud des Pennines, sur de nombreuses collines vertes, dont les Cotswolds, les Chilterns, les North Downs et les South Downs — quand elles rencontrent la mer, elles dévoilent des roches blanches comme les falaises blanches de Douvres. La péninsule du sud-ouest, dans le West Country, se compose de hautes landes, telles le Dartmoor et l’Exmoor, tous les deux parcs nationaux, et profite d’un climat océanique[9].
+
+La faune et flore sont dégradées depuis l'après-seconde guerre mondiale, plus de 80 % des haies, prés et marécages qui s'y trouvaient ont disparu[réf. nécessaire].
+
+Géologie, topographie et hydrographie
+Articles détaillés : Géologie de l'Angleterre, Relief de l'Angleterre et Rivières de l'Angleterre.
+Par des cartes des profondeurs de la Manche dressées par des sonars ultraperfectionnés, une gigantesque vallée au fond de la mer a pu être reconstituée en 3D, présentant les caractéristiques de l'érosion due à l'écoulement du fluide. Le cataclysme se serait produit il y a 450 000 ans à la suite de la rupture d'un barrage naturel existant entre Douvres et Calais[10]. Le lac glaciaire en amont se serait écoulé à un débit supérieur à 1 million de mètres cubes par seconde[réf. souhaitée] dans cette vallée séparant l'île du continent. Une seconde inondation se serait reproduite il y a 160 000 ans[réf. souhaitée].
+
+Climat
+Article détaillé : Climat de l'Angleterre.
+L'Angleterre a un climat océanique tempéré. Il y fait doux avec des températures rarement en dessous de 0 °C en hiver et rarement au-dessus de 32 °C en été[11]. Le temps est fréquemment pluvieux et changeant. Les mois les plus froids sont janvier et février, ce dernier en particulier sur le littoral anglais, tandis que le mois de juillet est généralement le plus chaud. Les mois avec un temps variable sont mai, juin, septembre et octobre[11]. Les précipitations sont réparties presque uniformément tout au long de l’année.
+
+Plusieurs facteurs géographiques une influence importante sur le climat de l’Angleterre : la proximité de l'océan Atlantique, la latitude au nord et le réchauffement des courants marins par le Gulf Stream[11]. C'est une des régions européennes qui connaît le plus grand nombre de dépressions météorologiques. Les précipitations sont plus fortes à l’ouest, et certaines régions du Lake District reçoivent plus de pluie que partout ailleurs dans le reste de l'Angleterre[11]. Le climat est plus humide dans l'Est et le Nord, et plus continental dans le Sud-Est. Les chutes de pluie à Londres restent inférieures à 604 mm pour l'année entière.
+
+Les archives des températures montrent que le record de la plus haute température est de 38,5 °C le 10 août 2003 à Brogdale dans le Kent[12], et la plus basse est de −26,1 °C le 10 janvier 1982 à Edgmond, dans le Shropshire[13].
+
+Villes
+La ville la plus peuplée d'Angleterre est Londres, la capitale du Royaume-Uni. Elle est suivie par des villes qui se sont développées au XIXe siècle, lors de la révolution industrielle : Manchester, Birmingham, Leeds et Liverpool. D'après l'Office for National Statistics, les dix plus grandes aires urbaines d'Angleterre en 2011 sont les suivantes[14] :
+
+Rang	Aire urbaine	Population
+(2011)	Principales localités
+1	Aire urbaine du Grand Londres	9 787 426	Grand Londres (la Cité et 32 boroughs)
+2	Aire urbaine du Grand Manchester	2 553 379	Manchester, Salford, Bolton, Stockport, Oldham
+3	Aire urbaine des Midlands de l'Ouest	2 440 986	Birmingham, Wolverhampton, Dudley, Walsall, Aldridge
+4	Aire urbaine du Yorkshire de l'Ouest	1 777 934	Leeds, Bradford, Huddersfield, Wakefield, Halifax
+5	Aire urbaine de Liverpool	864 122	Liverpool, St Helens, Bootle, Huyton-with-Roby
+6	Hampshire du Sud	855 569	Southampton, Portsmouth, Eastleigh, Gosport, Fareham, Havant, Horndean
+7	Tyneside	774 891	Newcastle, North Shields, South Shields, Gateshead, Jarrow
+8	Aire urbaine de Nottingham	729 977	Nottingham, Beeston, Stapleford, Carlton, Long Eaton
+9	Aire urbaine de Sheffield	685 368	Sheffield, Rotherham, Rawmarsh, Killamarsh
+10	Aire urbaine de Bristol	617 280	Bristol, Kingswood, Mangotsfield, Stoke Gifford
+Histoire
+Article détaillé : Histoire de l'Angleterre.
+Stonehenge au soleil couchant
+Stonehenge, un monument néolithique.
+Préhistoire et Antiquité
+Les os humains les plus anciens découverts en Angleterre datent de plus de 700 000 ans — des restes d’Homo erectus trouvés dans les Norfolk et Suffolk actuels[15]. Les Homo sapiens arrivent pour la première fois dans la région il y a environ 35 000 ans, mais à cause des conditions difficiles de la dernière période glaciaire (connue en Grande-Bretagne et Irlande sous le nom de glaciation Devensian)[16], ils se replient dans les montagnes du Sud de l’Europe. Les grands mammifères comme les mammouths, les bisons et les rhinocéros laineux restent seuls[17]. Il y a environ 11 000 ans, quand les couches de glace commencent à reculer, les humains repeuplent la zone. Les recherches génétiques ont montré qu’ils viennent du Nord de la péninsule Ibérique. Le niveau de la mer étant plus bas, l’Angleterre était reliée par la terre à l’Irlande et à l’Eurasie. L’élévation des eaux il y a 9 000 ans sépare à nouveau la Grande-Bretagne de l'Irlande, puis du continent un demi-siècle plus tard[18].
+
+Il y a environ 4 500 ans, une migration massive depuis le continent introduit la culture campaniforme dans l'île. La propagation du complexe campaniforme est associée au remplacement d'environ 90 % du patrimoine génétique local en quelques centaines d'années. Cette migration se produit dans le prolongement de l'expansion vers l'ouest des groupes humains de la steppe pontique qui avaient essaimé en Europe centrale et du Nord au cours des siècles précédents, probablement les locuteurs de langues indo-européennes[19],[20],[21].
+
+C’est pendant cette période que des monuments néolithiques, comme Stonehenge ou Avebury sont construits. En fondant ensemble de l’étain et du cuivre, présents en abondance dans la région, les humains fabriquent du bronze, et plus tard du fer grâce au minerai de fer. Ils sont capables de tisser de la laine de mouton pour en faire des vêtements. Selon John T. Koch et d’autres historiens, l’Angleterre, à la fin de l’âge du bronze, faisait partie d’un réseau commercial maritime, appelé l’âge du bronze atlantique, qui inclut toute la Grande-Bretagne, ainsi que l’Irlande, la France, l’Espagne et le Portugal. Dans ces régions, les langues celtiques se développent : le tartessien est la plus lointaine langue celtique écrite découverte[22].
+
+Pendant l’âge du fer, la culture celte, dérivant des cultures du Hallstatt et de La Tène, se propage jusqu’en Europe centrale. Leur langue, pratiquement la même que l'on retrouve en Gaule, fait un rapprochement culturel évident en tant que celtique de type P. Le développement des fonderies de fer permet la fabrication de meilleures charrues, améliorant l’agriculture, et d'accroître l’efficacité des armes. Les sociétés tribales établies dans l'île parlent les langues brittoniques : la Géographie de Ptolémée recense environ vingt tribus dans la région, cependant les structures plus anciennes ne sont pas connues car les Bretons n'avaient pas recensé les noms et le nombre de leurs tribus, d'autant plus que la transmission culturelle se faisait par voie orale. Le consul de la République romaine Jules César tente d’envahir deux fois la région en 55 av. J.-C. Ces invasions étant des échecs, il essaye alors de créer un royaume-client avec le chef des Trinovantes. Lors de l'expansion de l’Empire romain, comme d‘autres régions à sa marge, la Bretagne tisse de nombreux liens avec la puissance continentale.
+
+La province romaine de Bretagne
+Article détaillé : Bretagne (province romaine).
+Painting of woman, with outstretched arm, in white dress with red cloak and helmet, with other human figures to her right and below her to the left.
+Boadicée mène une révolte contre l'Empire romain.
+L'Empire romain conquiert l’Angleterre en 43 apr. J.-C., pendant le règne de l’empereur Claude, et la région est annexée à l’Empire romain, sous le nom de Bretagne[23]. Les plus connus des peuples qui ont tenté de résister à l’invasion sont les Catuvellauni, menés par Caratacus. En 47 apr. J.-C., Publius Ostorius Scapula est nommé par Claude propréteur de la province de Bretagne. En 54 apr. J.-C., d'après Suétone, l'empereur Claude abolit la religion des druides, ce qui déstabilisera fortement le monde celtique insulaire[24]. L'archéologie et l'anthropologie aujourd'hui nous permettent de nous défaire de l'idéologie colonialiste prêtée aux Romains envers les Celtes. En effet, les Romains comme les Celtes, sont tous deux d'origine indo-européenne. Le flaminica et le druidica ne sont pas si différents l'un de l'autre et la Rome comme la Gaule sont toutes deux structurées dans la tripartition, comme nous l'a bien démontré Georges Dumézil[25]. En 57 apr. J.-C., les cohortes romaines d'Agricola commandées par Suetonius Paulinus détruisent le sanctuaire de l'Île de Mona, Anglesey, massacrant les druides et les druidesses ainsi que les enfants qui le servent et y vivent. Vers l'an 60 apr. J.-C.[26], une révolte menée par Boadicée, reine des Iceni, est écrasée à la bataille de Watling Street[27]. Elle avait réuni une armée de 120 000 hommes et les Bretons s'en prirent d'abord à la nouvelle colonie de Camulodunum, dont le sanctuaire consacré à l'empereur Claude constituait une source d'irritation. Cette nouvelle ère amena l'imposition du modèle gallo-romain qui était un succès dans ce qui fut jadis la Gaule indépendante, avec l’architecture romaine, des systèmes de cultures d'assimilation romaines, un système d'éducation différent de celui instauré par les druides[28]. La Britannia désignait la province romaine qui couvrait l’Angleterre, le pays de Galles et le Sud de l’Écosse du Ier siècle au début du Ve siècle. Au IIIe siècle, l’empereur Septime Sévère meurt à York, où Constantin est proclamé empereur par la suite[29]. Le christianisme est pour la première fois introduit au début du IIIe siècle, bien que cette origine soit contestée : on parle d’une introduction par l’intermédiaire soit de Joseph d'Arimathie, soit de saint Lucius[30]. Vers 410, les Romains se retirent de l’île à mesure de leur perte de puissance, pour défendre leurs frontières en Europe continentale[31].
+
+Les Anglo-Saxons
+Articles détaillés : Histoire de l'Angleterre anglo-saxonne et Bretons insulaires.
+À la suite de la retraite romaine, l’Angleterre est laissée à l’abandon, et la région devient propice à des attaques de peuples marins païens, tels les Saxons et les Jutes qui prennent le contrôle de territoires dans le Sud-Est. Leurs avancées sont contenues pendant un temps après la victoire des Bretons insulaires à la bataille du Mont Badon. Les royaumes britanniques post-romains dans le Nord, plus tard réunis sous la dénomination galloise de Hen Ogledd (« vieux Nord »), ont peu à peu été conquis par les Angles au cours du VIe siècle. Les Irlandais effectuaient des raids sur la côte ouest de la Bretagne[réf. nécessaire]. Les Irlandais finissent par fonder de véritables principautés sur les côtes galloises et écossaises[réf. nécessaire]. Si les premières sont finalement écrasées, les secondes ont donné naissance à l'Écosse par la fusion du Dal Riada avec les royaumes britanniques du Nord[réf. nécessaire].
+
+Durant cette période sur laquelle les sources fiables font défaut (c'est l'Âge sombre ou Dark Ages de l'historiographie anglaise), des populations bretonnes peu romanisées établirent de nombreux royaumes bretons dans l'île de Bretagne, notamment dans le pays de Galles et d'autres migrèrent en Irlande[réf. nécessaire]. De même, là se trouve probablement la cause première d'une émigration en masse de Bretons vers la péninsule armoricaine, celle-ci prenant alors le nom de Bretagne. Il existe plusieurs théories qui s’opposent sur l’étendue et l’histoire de l’installation des Anglo-Saxons en Angleterre. Cerdic de Wessex a peut-être été un Breton insulaire. Un patchwork de royaumes anglo-saxons finit par émerger au sud et au centre de l’Angleterre, les principaux étant la Northumbrie, la Mercie et le Wessex. Le christianisme est réintroduit dans la région à partir de la fin du VIe siècle, au sud par la mission grégorienne d'Augustin, venu de Rome, et au nord par Aidan de Lindisfarne depuis l’Irlande.
+
+Naissance de l'Angleterre
+Articles détaillés : Royaume d'Angleterre et Conquête normande de l'Angleterre.
+Northumbrie et Mercie sont alors les forces dominantes. Toutefois, après les conquêtes vikings au nord et à l’est, et l’imposition du Danelaw, c'est-à-dire la loi des Vikings, le Wessex devient le premier royaume anglais sous Alfred le Grand. L'unification est le fait d'Édouard l'Ancien, roi de Wessex, assisté de sa sœur Æthelflæd, souveraine de Mercie dans les années 910 : l'Est-Anglie est conquise en 917, le royaume d'York en 918 mais à nouveau perdu en 919, la Northumbrie en 918. À la mort de sa sœur, en 918, Édouard annexe également la Mercie. Son fils et successeur Æthelstan cimente cette unification en prenant le titre de « roi des Anglais », une unification parachevée en 954 avec la victoire d’Eadred sur le Norvégien Éric à la Hache sanglante. Au début du XIe siècle, Knut le Grand intègre brièvement l’Angleterre dans un empire qui réunit aussi le Danemark et la Norvège. Plus tard, Édouard le Confesseur restaure la dynastie des Wessex. En 1066, les Normands de Guillaume le Conquérant, depuis le duché de Normandie, s'emparent de l'Angleterre, chassant Harold II, dernier des rois anglo-saxons. Ceux que l'on appela « souverains anglo-normands » ouvriront le pays aux influences continentales. Ils introduisent le féodalisme et maintiennent l’ordre à travers la figure de barons, qui construisent des châteaux dans toute la région. La langue de cette nouvelle élite aristocratique est le français anglo-normand, ce qui aura une influence considérable sur la langue anglaise.
+
+Après la mort du dernier représentant de la dynastie anglo-normande en 1135, la guerre civile éclate entre les différents prétendants et se répand sur l'ensemble des territoires d’outre-Manche. Geoffroy Plantagenêt finit par triompher. La maison des Plantagenêt d’Anjou hérite du trône d’Angleterre avec Henri II d'Angleterre, ajoutant l’Angleterre au bourgeonnant empire Plantagenêt, formé de fiefs en France dont l’Aquitaine. Ils règnent pendant trois siècles, et fournissent plusieurs monarques tels que Richard Ier, Édouard Ier, Édouard III, et Henri V. Cette période voit des mutations dans le commerce et la législation, avec notamment la signature de la Magna Carta, une charte destinée à limiter les pouvoirs des souverains par la loi et protéger les privilèges des hommes. Le monachisme catholique prospère, fournit des philosophes et les universités d’Oxford et de Cambridge sont créées sous la protection royale. La Principauté de Galles devient un fief des Plantagenêt pendant le XIIIe siècle et la seigneurie d'Irlande est offerte à la monarchie anglaise par le pape.
+
+Au cours du XIVe siècle, les Plantagenêt et les Valois se réclament tous les deux de la maison des Capet, et par là-même, de la France : les deux puissances s’affrontent lors de la guerre de Cent Ans. L’épidémie de peste noire touche l’Angleterre en 1348 et a tué jusqu’à la moitié de ses habitants. De 1453 à 1487, deux branches de la famille royale (la Maison d’York et la Maison de Lancastre) se battent lors de la guerre des Deux-Roses. Elle mène à la défaite de la maison d’York, qui abandonne le trône à une famille noble galloise, les Tudor, une branche de la Maison de Lancastre, dirigée par Henri Tudor aidé de troupes galloises et de mercenaires bretons, qui remportent la victoire à la bataille de Bosworth, où le roi Richard III est tué.
+
+Les Temps modernes
+Le règne des Tudor est mouvementé. La Renaissance parvient en Angleterre grâce aux courtisans italiens, qui réintroduisent les arts, l’éducation et les savoirs de l’Antiquité gréco-romaine. Pendant ce temps, l’Angleterre développe une flotte navale, invente le théodolite, et explore les mers à l'ouest. Ces explorations sont bloquées par l’Empire ottoman, qui contrôle la mer Méditerranée, et empêche le commerce maritime des États chrétiens de l’Europe avec l’Est méditerranéen.
+
+
+Sous les Tudors, l'art, l'architecture, l'exploration et le commerce ont prospéré en Angleterre.
+Henri VIII rompt avec l’Église catholique romaine, à cause d’un désaccord sur le premier divorce royal, et proclame l’Acte de suprématie, en 1534, qui fait du monarque le chef de l’Église anglicane. Contrairement au protestantisme européen, les racines de ce schisme sont plus politiques que théologiques. Il incorpore aussi officiellement les terres galloises dans le royaume d’Angleterre par l’Acte d'Union (1536). Des conflits internes naissent durant les règnes des filles d’Henri VIII : Marie Ire et Élisabeth Ire. La première tenta de ramener le pays dans le giron catholique, tandis que la seconde rompra une seconde fois plus profondément encore, pour asseoir la suprématie de l’anglicanisme.
+
+Une flotte anglaise sous le commandement de Francis Drake détruisit l’Invincible Armada durant l’ère élisabéthaine. À la lutte avec l’Espagne, la première colonie anglaise en Amérique est créée par l’explorateur Walter Raleigh en 1585, et l’appelle la Virginie. La Compagnie des Indes orientales entre en compétition au Moyen-Orient avec les Pays-Bas et la France. La nature de l’île change elle aussi après la mort d'Élisabeth Ire: les Stuart qui règnent alors sur l'Écosse accèdent au trône d'Angleterre. Partisans d'un absolutisme, leurs visées inquiètent certains Anglais qui craignent pour leurs droits. De plus, le catholicisme des Stuart fait craindre une remise en cause des réformes religieuses de la part des puritains. L’Union des Couronnes est proclamée en 1603 sous Jacques Ier d'Angleterre. Le roi se nomme dès lors roi de Grande-Bretagne, bien que cela n’existe pas dans la loi anglaise.
+
+Un conflit politique, religieux et social donne naissance à la Première Révolution anglaise entre les soutiens du Parlement et ceux du roi, respectivement appelés les «Têtes Rondes» et les «Cavaliers». Ce conflit provient d’un enchevêtrement de problématiques diverses, dans le contexte des guerres des Trois Royaumes, impliquant l’Écosse et l’Irlande. Les parlementaires sortent victorieux, Charles Ier est exécuté. Un régime républicain est alors instauré sous le nom de Commonwealth de l'Angleterre, dirigé par un lord-protecteur en la personne de Oliver Cromwell, suivi de son fils Richard.
+
+
+Charles II devint roi après la Restauration en 1660.
+À la démission de ce dernier, Charles II revient comme monarque en 1660. La Restauration des Stuart en 1660 durera à peine trente ans. Il apparaît toutefois que le roi et le Parlement doivent gouverner ensemble, bien que cela ne soit en pratique le cas qu’à partir du XVIIIe siècle. La création la même année de la Royal Society encourage les sciences et les arts.
+
+Le Grand incendie de Londres en 1666 frappe la capitale, mais elle est reconstruite peu après. Deux factions émergent dans le Parlement: les Tories, royalistes, et les Whigs, libéraux. Alors que les Tories soutiennent initialement le roi catholique Jacques II, plusieurs d’entre eux, avec le parti Whig, renversent le roi en 1688. la Glorieuse Révolution de 1688 porte le prince néerlandais Guillaume III d'Orange au pouvoir et confirme la monarchie protestante en Angleterre. La révolution financière britannique se traduit par un recours important à l'endettement pour financer la Royal Navy et les aménagements de rivière, tandis que se développe un marché boursier et des assurances. Quelques groupes anglais, particulièrement dans le nord avec les Jacobites, continuent de soutenir le roi Jacques et ses fils. En 1707, les royaumes d'Angleterre et d'Écosse, bien que dirigés par les mêmes souverains issus de la dynastie Stuart, ne forment plus qu'un seul royaume, la Grande-Bretagne, à la suite de la signature de l'Acte d'Union, dont la reine Anne de Grande-Bretagne en devient la première souveraine. Pour faciliter le rapprochement, les législations et les systèmes religieux restent séparés.
+
+L'époque contemporaine
+Sous le royaume nouvellement formé Grande-Bretagne, les Lumières anglaises et écossaises, avec la Royal Society, produisent de nombreuses innovations en science et ingénierie. Cela permet à l’Empire britannique de prospérer, pour devenir le plus grand de l’Histoire. La 1re Révolution industrielle apparaît en Angleterre, qui provoque des profonds changements socioéconomiques et culturels. L’agriculture s’industrialise, les usines et les mines apparaissent, tout comme les réseaux routiers, ferroviaires et maritimes, qui facilitent l’expansion et le développement de la révolution industrielle. L’ouverture du canal de Bridgewater au nord-ouest de l’Angleterre en 1761 introduit la nation dans une véritable frénésie de la construction de canaux.
+
+
+Londres : la Tamise et la ville de Canaletto (1697-1768)
+L’Angleterre maintient une relative stabilité lors de la Révolution française. William Pitt le Jeune est premier ministre sous le règne de George III du Royaume-Uni. Pendant les guerres napoléoniennes, Napoléon Bonaparte prévoit d’envahir l’Angleterre par le sud-ouest. Toutefois, ces projets d’invasion échouent, d’abord après la défaite de Trafalgar face à Horatio Nelson, ensuite après la défaite de Waterloo, contre le général Wellington. Les guerres napoléoniennes ont encouragé le concept de la nation britannique, avec le sentiment d’un peuple britannique uni, partagé avec les Gallois et les Écossais.
+
+En 1825, la première locomotive à vapeur transportant des passagers ouvre au public, sur le chemin de fer de Stockton-on-Tees et Darlington et la nation détient à elle seule la moitié des 9 500 kilomètres de rail européen en 1845, lors de l'épisode de la "railway mania".
+
+Pendant la Révolution industrielle, beaucoup de travailleurs quittent les campagnes anglaises pour aller habiter dans des aires industrielles, et travailler dans des usines, par exemple à Manchester ou à Birmingham. L'expansion très tôt et très rapide des banques, fait de l'Angleterre le premier endroit au monde où la majorité de la population utilise des billets de banque. Pendant l’époque victorienne, Londres devient la plus grande et la plus peuplée des capitales du monde, et le commerce avec l’Empire britannique, tout comme la présence militaire et navale britannique, apporte beaucoup de prestige. L’agitation politique domestique menée par les Chartistes et les suffragettes aboutissent à une réforme législative et l’adoption du suffrage universel. Lors de la Première Guerre mondiale, des milliers de soldats anglais meurent dans les tranchées en France, car le pays fait partie des forces alliées. Deux décennies plus tard, pendant la Seconde Guerre mondiale, le Royaume-Uni combat à nouveau pour les forces alliées. Winston Churchill est alors le premier ministre. Les développements dans les technologies de guerre permettent à l'Allemagne sous le régime nazi d'effectuer un bombardement aérien massif du pays, c’est le Blitz. Après la guerre, l’Empire britannique fait face à une décolonisation rapide. De nouvelles innovations technologiques voient le jour: l’automobile devient le premier moyen de transport du pays, et les recherches de Frank Whittle sur le moteur à réaction permettent un voyage aérien plus poussé. Les comportements sociaux des Anglais sont transformés par l’accès privé aux automobiles, et par la création du National Health Service, en 1948. Cette organisation publique fournit des soins gratuits aux habitants, selon les niveaux de vie de chacun. Tous ces changements ont accéléré la réforme des pouvoirs locaux au milieu du XXe siècle.
+
+Le XXe siècle voit de nombreuses migrations vers l’Angleterre, en particulier depuis les îles Britanniques, mais aussi depuis le Commonwealth, dont le sous-continent indien. Depuis les années 1970, le secteur industriel périclite doucement, au profit des emplois du secteur tertiaire. L’Angleterre, qui fait partie du Royaume-Uni, rejoint le marché commun de la Communauté économique européenne, qui devient plus tard l’Union européenne. À la fin du XXe siècle, les pouvoirs politiques se sont de plus en plus décentralisés en Écosse, au pays de Galles et en Irlande du Nord. L’Angleterre et le pays de Galles continuent néanmoins d’exister au sein du Royaume-Uni comme une juridiction unique. La décentralisation a accru le sentiment d’appartenance à l’identité anglaise. Il n’y a pas de gouvernement anglais au sens classique, et une tentative récente de créer un système similaire aux autres régimes politiques a été rejetée par référendum.
+
+La loi dite Wales and Berwick Act (en) de 1746 avait établi que l'« Angleterre » comprendrait le pays de Galles. Mais cette loi fut révisée en 1967 par la loi dite Welsh Language Act (en) et, depuis cette date, l'« Angleterre » légale ne comprend plus le pays de Galles. L'Angleterre légale fut établie définitivement en 1974 en conséquence de l'effet de la loi dite Local Government Act de 1972 qui rattacha la ville de Berwick à l'Angleterre et le comté de Monmouthshire au pays de Galles.
+
+Le 23 juin 2016, lors du référendum sur le maintien du Royaume-Uni dans l'Union européenne, 53,4 % des Anglais se prononcent pour la sortie du Royaume-Uni de l'Union européenne (Brexit). Elle n'en fait plus partie depuis le dimanche 1er février 2020.
+
+Fait rare le 8 septembre 2022 vers 13h40 heure anglaise, Buckingham Palace sort un communiqué évoquant la dégradation de l'état de santé de la reine Élisabeth II, ainsi que la mise sous surveillance de celle-ci à sa résidence en Écosse, dans le château de Balmoral. Les médias anglais comme la BBC passeront toute la journée en édition spéciale, avec les présentateurs passant petit à petit au costume noir, symbole de deuil. De très nombreux Anglais s'attrouperont quelques minutes après le communiqué devant le palais de Buckingham. L'opération London Bridge est lancée vers 16h30 heure locale, et un communiqué de Buckingham tombe à 18h30 heure anglaise annonçant que « La reine est morte paisiblement à Balmoral cet après-midi. Le roi et la reine consort resteront à Balmoral ce soir et retourneront à Londres demain. » La reine Élisabeth II meurt à l'âge de 96 ans après un règne de 70 ans, 7 mois et 2 jours. Son fils, Charles III lui succède officiellement le lendemain à la tête de l'Angleterre et du Commonwealth.
+
+Politique et administration
+Politique
+Faisant partie du Royaume-Uni, l’Angleterre est une monarchie constitutionnelle doublée d’un système parlementaire. Il n’y a pas de gouvernement d’Angleterre depuis 1707, quand l’Acte d’union, qui promulgue les termes du traité de l’Union, allie l’Angleterre et l’Écosse au sein de la Grande-Bretagne. Avant cette union, l’Angleterre était dirigée par une monarchie et le Parlement d’Angleterre. L’Angleterre est gouvernée par le Parlement du Royaume-Uni, même si les autres pays constitutifs du Royaume-Uni ont des gouvernements décentralisés. À la Chambre des communes, qui est la chambre basse du parlement britannique basée au Palais de Westminster, à Londres, 532 membres du parlement représentent des circonscriptions anglaises, sur un total de 650 élus.
+
+Depuis la décentralisation où les autres pays constitutifs du Royaume-Uni (l’Écosse, l’Irlande du Nord et le pays de Galles) ont eu un parlement délégué, les débats en Angleterre font rage pour déterminer comment contrebalancer cette réforme. Au départ, il était prévu que plusieurs régions anglaises auraient leurs propres assemblées locales, mais l’opposition de l’Angleterre du Nord-Est a enterré cette proposition.
+
+La « question du West Lothian » est un débat soulevé dans les années 1970 et particulièrement débattu depuis les années 1990 : des membres des parlements gallois ou écossais peuvent-ils statuer sur des lois qui concernent uniquement les Anglais ? Dans le contexte d’une Angleterre qui est le seul pays du Royaume-Uni à ne pas avoir de traitement contre le cancer gratuit, ce débat a donné lieu à une montée du nationalisme anglais. Certains ont donc proposé la création d’un parlement anglais dédié, ou bien de limiter les votes des lois qui concernent uniquement l’Angleterre, aux membres anglais du parlement.
+
+Contrairement à l'Écosse ou au pays de Galles, qui ont réduit leur âge de la majorité électorale (pour les élections locales seulement) à 16 ans, l’âge de la majorité électorale en Angleterre reste pour l'instant à 18 ans pour toutes les élections, en attendant d'être revu à la baisse par la Chambre des Communes[32].
+
+Droit anglais
+Article détaillé : Droit anglais.
+	Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue ! Comment faire ?
+Régions, comtés et districts
+Articles détaillés : Subdivisions de l'Angleterre, Régions de l'Angleterre, Comtés de l'Angleterre et District d'Angleterre.
+	Cette section est vide, insuffisamment détaillée ou incomplète. Votre aide est la bienvenue ! Comment faire ?
+Population et société
+Démographie et immigration
+Avec plus de 53 millions d’habitants[réf. nécessaire], l’Angleterre est de loin le pays constitutif du Royaume-Uni la plus peuplée, avec environ 84 % de la population totale. À titre de comparaison, l'Angleterre possède le 4e plus grand nombre d’habitants d'Europe de l'Ouest, et le 25e dans le monde. Avec une densité de 422 habitants au kilomètre carré, c’est l'un des territoires les plus densément peuplés d'Europe.
+
+Les recherches génétiques suggèrent que 75 à 95 % de la population anglaise descendent en /12/ternelle de populations préhistoriques venues de la péninsule Ibérique[33],[34],[35]. Un élément scandinave important ainsi qu'une contribution de 5 % des Angles et des Saxons[35] constituent le reste, bien que certains généticiens estiment l'élément scandinave et germanique à hauteur de 50 %[36]. Au cours du temps, de nombreuses cultures ont exercé leur influence : Bretons insulaires, Romains, Anglo-Saxons, Vikings, Gaëls, sans oublier la profonde influence des Normands. Il existe une diaspora anglaise présente notamment dans les anciennes colonies de l’Empire britannique, en particulier aux États-Unis, au Canada, en Australie, en Afrique du Sud et en Nouvelle-Zélande.
+
+Au temps du Domesday Book, compilé en 1086, plus de 90 % des 2 millions d’Anglais vivent à la campagne. En 1801, la population est de 8,3 millions d’habitants, et elle augmente à 30,5 millions en 1901. Grâce notamment à la prospérité économique de l’Angleterre du Sud-Est, il y a de nombreuses migrations économiques depuis toutes les régions de l’Angleterre. L’immigration irlandaise a également été importante. La proportion d’immigrants d’origine européenne est à cette époque d'environ 87,5 % (Allemands, Polonais, etc.).
+
+D’autres migrants venant des anciennes colonies britanniques se sont installés depuis 1950. 6 % des habitants viennent du sous-continent indien, notamment d’Inde et du Pakistan. 2,9 % de la population est noire, d’origine caribéenne principalement. Il y a un nombre également important de Chinois. En 2007, 22 % des enfants en école primaire sont issus de minorités ethniques. Environ la moitié de l’augmentation de la population anglaise entre 1991 et 2001 est due à l’immigration. Le débat sur l’immigration revêt une forte importance en Angleterre, car selon un sondage du département de l’Intérieur, 80 % des Anglais souhaitent le résoudre. L’ONS a prévu que la population augmenterait de 6 millions d’habitants entre 2004 et 2029.
+
+Natalité
+En 2017, 29,2 % des nouveau-nés en Angleterre (188 829 sur 646 794) ont une mère née à l'étranger. 16,8 % ont une mère née hors du continent européen (9,7 % une mère née au Moyen-Orient ou en Asie, 5,0 % une mère née dans un pays d'Afrique et 2,1 % une mère née dans une autre région du monde)[37].
+
+Groupes ethniques
+Selon le recensement de 2011, près de 15 % des habitants de l'Angleterre appartiennent à des minorités ethniques (20,4 % chez les moins de 40 ans et 5 % chez les 60 ans et plus). Dans le Grand Londres, les minorités ethniques représentent 40,2 % de la population totale et 51,2 % des moins de 25 ans[38].
+
+Groupe ethnique	population (2001)	% 2001	population (2011)	% 2011
+Blancs	44 679 361	91,0	45 281 142	
+85,4
+
+Asiatiques	2 468 970	5,1	4 143 403	
+7,8
+
+Noirs	1 132 508	2,3	1 846 614	
+3,5
+
+Métis	643 373	1,4	1 192 879	
+2,3
+
+Autres	214 619	0,4	548 418	
+1,0
+
+Total	49 138 831	100	53 012 456	
+100
+
+Source: 2001 Census KS06 Ethnic group: Key Statistics for local Authorities [archive] et 2011 Census: KS201EW Ethnic group: local authorities in England and Wales [archive].
+Langues
+Articles détaillés : Anglais et Histoire de la langue anglaise.
+Comme son nom le suggère, l’anglais est historiquement la langue de l’Angleterre, et en est toujours la langue principale. C’est une langue indo-européenne dans la branche anglo-frisonne de la famille des langues germaniques. Après la conquête normande, le vieil anglais est confiné dans les classes sociales populaires, et le normand, le latin et l'anglo-normand le supplantent dans l’aristocratie. L'anglais utilise l'alphabet latin et les chiffres arabes comme système d’écriture.
+
+Vers le XVe siècle, l’anglais revient à la mode dans toutes les classes sociales, bien que très modifié. Le moyen anglais montre de nombreux signes de l’influence normande, à la fois dans le vocabulaire et dans la prononciation. Pendant la Renaissance anglaise, de nouveaux mots sont forgés grâce au latin et au grec. L’anglais moderne étend cette habitude de flexibilité, en incorporant des mots depuis d’autres langues. Héritage de l’empire colonial britannique, l’anglais est aujourd'hui considéré comme la lingua franca à l'échelle du monde, notamment grâce à son utilisation par les États-Unis.
+
+L’apprentissage et l’enseignement de l’anglais est une activité économique importante pour l'Angleterre, et implique l’existence d’écoles de langue, de voyages linguistiques ou encore de publications à la portée internationale. Il n’y a pas de loi au niveau du Royaume-Uni qui reconnaît une langue officielle en Angleterre, mais l’anglais est la seule langue utilisée par l'ultra majorité des Anglais. En dépit de la relative petite taille de la nation anglaise, il y a de nombreux accents régionaux distincts, et des personnes avec un accent particulièrement prononcé peuvent ne pas être facilement comprises dans toute l'Angleterre.
+
+Le cornique, qui a disparu comme langue d’usage au cours du XVIIIe siècle, est en train d’être ressuscité. Il est maintenant protégé par la charte européenne des langues régionales ou minoritaires. Il est parlé par 0,1 % des habitants en Cornouailles[39], et est enseigné dans plusieurs écoles, à n’importe quel âge[40],[41]. En 2002, il a été officiellement reconnu comme langue régionale par le gouvernement britannique[42],[43],[44]. En 2014, à travers la Convention-cadre pour la protection des minorités nationales, le gouvernement britannique reconnaît officiellement les Corniques comme une minorité nationale[45].
+
+Les étudiants apprennent dans les écoles publiques une deuxième langue, souvent le français, l’allemand ou l’espagnol. De par l’immigration, un rapport montre qu’en 2007, 800 000 étudiants parlent une langue étrangère à leur domicile, souvent le panjâbî ou l’ourdou.
+
+Santé
+Article détaillé : National Health Service.
+Le National Health Service (NHS) est le système de santé public de l’Angleterre, qui fournit l’essentiel des soins dans le pays. Le NHS a été créé le 5 juillet 1948, appliquant la loi de 1946 sur le National Health Service. Cette loi se base sur les conclusions du rapport Beveridge, préparé par l’économiste et réformateur social William Beveridge. Le NHS est en majeure partie financé par les impôts, dont les montants de la National Insurance, et dispense la plupart de ses services gratuitement, même si des charges doivent être payées par certaines personnes, pour les soins ophtalmologiques et dentaires, ainsi que certains soins personnels.
+
+Le ministère responsable du NHS est le département de la Santé, dirigé par le secrétaire d’état à la santé, membre du cabinet du Royaume-Uni. La majeure partie des dépenses du département de la santé concerne le NHS — environ 100 millions de livres sterling sont dépensées en 2008-2009. Récemment[C'est-à-dire ?], le secteur privé est de plus en plus sollicité pour assurer des soins du NHS, malgré l’opposition des syndicats. En 2018, le système de santé public souffre à l'échelle de tout le Royaume-Uni de grandes difficultés[46].
+
+L’espérance de vie moyenne des habitants en Angleterre est de 77,5 ans pour les hommes, et de 81,7 ans pour les femmes, la moyenne la plus élevée des quatre nations constitutives du Royaume-Uni.
+
+Religion
+
+L'abbaye de Westminster est un exemple notable de l'architecture gothique anglaise. Le couronnement du monarque britannique a lieu traditionnellement à l'abbaye.
+Le christianisme est la religion la plus pratiquée en Angleterre, comme c’est le cas depuis le haut Moyen Âge, bien qu’il ait été introduit plus tôt, pendant les ères gaéliques et romaines. La chrétienté a perduré pendant les siècles qui ont suivi, et environ 59 % des Anglais se considèrent chrétiens[Quand ?]. La confession dominante dans le pays est l’anglicanisme, et date de la Réforme anglaise au XVIe siècle, au moment du schisme de 1536 quand l’Église de Rome a refusé de valider le divorce entre Henri VIII et Catherine d'Aragon. La confession se considère à la fois comme catholique et réformée.
+
+Il existe des traditions pour la Haute Église et la Basse Église, et quelques anglicans se considèrent comme anglo-catholiques, après le mouvement d’Oxford. La monarchie du Royaume-Uni est à la tête de l’Église, en tant que gouverneur suprême. L’anglicanisme a le statut de religion d’État. Il y a environ 26 millions de pratiquants et ils forment la Communion anglicane, et l’archevêque de Cantorbéry en est le représentant symbolique aux yeux du monde. De nombreuses cathédrales sont des bâtiments historiques d’une forte importance architecturale, comme l’abbaye de Westminster, la cathédrale de York, la cathédrale de Durham ou celle de Salisbury.
+
+La seconde confession chrétienne la plus répandue est l’Église latine de l’Église catholique, qui fait remonter son histoire en Angleterre au VIe siècle avec l’évangélisation d’Augustin de Cantorbéry, et a été la religion principale de l’île pendant près d’un millénaire. Depuis sa réintroduction après l’émancipation catholique, l’Église s’est réorganisée sur des bases anglaises et galloises où elle compte 4,5 millions de fidèles (dont la plupart sont anglais). Un seul pape fut anglais, Adrien IV, et les saints Bède le Vénérable et Anselme de Cantorbéry sont considérés comme des docteurs de l’Église. Une forme du protestantisme, connue sous le nom de méthodisme, est la troisième confession de l'Angleterre, et a grandi hors de l’anglicanisme grâce à John Wesley. Elle a gagné en popularité dans les villes-usines du Lancashire et du Yorkshire, et parmi les mineurs d’étain en Cornouailles. Il y a d’autres minorités non-conformistes, comme l’Église baptiste, les quakers, l’Église congrégationaliste, les unitaristes, et l’Armée du salut. L’immigration de l’île de Chypre (une ancienne colonie britannique) et du Moyen-Orient a introduit une minorité orthodoxe.
+
+Le saint patron de l’Angleterre est saint Georges, représenté sur le drapeau national et sur l’Union Jack. Il y a de nombreux autres saints anglais, dont les plus connus sont Cuthbert, Alban, Wilfrid, Aidan, Édouard le Confesseur, John Fisher, Thomas More, saint Pétroc, saint Piran, Margaret Clitherow et Thomas Becket.
+
+Des religions non-chrétiennes sont aussi pratiquées. Une minorité juive est présente sur l’île depuis 1070. Ils sont expulsés d’Angleterre en 1290 selon l’édit d’Expulsion, et autorisés à revenir seulement en 1656. Dans les années 1950 en particulier, des religions orientales provenant des anciennes colonies britanniques font leur apparition due à l’immigration. L’islam est la principale religion importée, avec 4,8 % de pratiquants anglais, et suivent en nombre l’hindouisme, le sikhisme et le bouddhisme, qui rassemblent 2,7 % de la population ensemble, et qui viennent de l’Inde et de l’Asie du Sud-Est.
+
+Environ 25 % de la population n'a pas de religion et 7,2 % ne déclare pas de religion.
+
+Évolution de la part des différentes religions en Angleterre et au pays de Galles entre 2001 et 2011[47] :
+
+Religion	2001	2011
+Christianisme	71,7 %	59,3 %
+Sans religion	14,8 %	25,1 %
+Islam	3,0 %	4,8 %
+Hindouisme	1,1 %	1,5 %
+Sikhisme	0,6 %	0,8 %
+Judaïsme	0,5 %	0,5 %
+Bouddhisme	0,3 %	0,4 %
+Autres religions	0,3 %	0,4 %
+Non indiqué	7,7 %	7,2 %
+Économie
+Article détaillé : Économie de l'Angleterre.
+L'économie anglaise est l'une des plus grandes au monde. Habituellement considérée comme une économie de marché mixte, elle a adopté de nombreux principes du libre marché, contrairement au capitalisme rhénan de l'Europe continentale[48]. La monnaie officielle en Angleterre est la livre sterling, également connue sous le nom de GBP. La fiscalité en Angleterre est caractérisée à partir de 2009 par un taux de base de l'impôt des particuliers de 20 % du revenu imposable jusqu'à concurrence de 37 400 livres sterling, et de 40 % sur les revenus supplémentaires au-dessus de ce montant[49].
+
+L’Angleterre est le contributeur principal de l’économie du Royaume-Uni, qui est, selon la Banque mondiale, le 24e pays quant au PIB (PPA) au monde. Les entreprises anglaises sont leaders dans les secteurs chimiques et pharmaceutiques, ainsi que dans les industries aérospatiales, de l’armement, et dans la conception de logiciels. Londres, où siège le London Stock Exchange, principale bourse des valeurs du Royaume-Uni et l’une des plus grandes en Europe, est le centre financier de l’Angleterre – 100 des 500 plus grandes entreprises européennes y ont leur siège social. Londres est le plus grand centre financier en Europe, et l’a aussi été en 2009 au niveau mondial.
+
+La Banque d’Angleterre, fondée en 1694 par le banquier écossais William Paterson, est la banque centrale du Royaume-Uni. Pensée à l’origine comme une banque privée à disposition du gouvernement anglais, elle joue ensuite un rôle au sein du Royaume-Uni – l’institution est nationalisée depuis 1946. La Banque a le monopole de l’émission des devises en Angleterre et au pays de Galles, mais pas dans les autres nations constitutives du Royaume-Uni. Sa Commission de Politique Monétaire a décentralisé la gestion de la politique monétaire et l’établissement des taux d’intérêts de chaque nation du Royaume-Uni.
+
+L’Angleterre est hautement industrialisée, mais connaît depuis les années 1970 un déclin dans les industries lourdes et manufacturières, ainsi qu’une augmentation du secteur tertiaire dans l’économie. Le tourisme est devenu une activité importante, en attirant des millions de visiteurs chaque année dans la région. L'Angleterre exporte principalement des médicaments, des automobiles — même si de nombreuses marques sont depuis détenues par des entreprises étrangères, comme Rolls-Royce, Lotus, Jaguar, Land Rover ou Bentley Motors — du pétrole depuis les possessions anglaises en Mer du Nord et le champ de Wytch Farm, des moteurs d’avions, et des boissons alcoolisées. L’agriculture est intensive et fortement mécanisée, et produit 60 % des besoins en nourriture de la population avec seulement 2 % de la population active. Les deux tiers de la production sont consacrés au bétail, le reste aux moissons agricoles.
+
+Recherche
+Articles détaillés : Recherche scientifique en Angleterre et Royal Society.
+Les plus éminents chercheurs anglais dans le domaine des sciences et des techniques sont Isaac Newton, Michael Faraday, Robert Hooke, Robert Boyle, Joseph Priestley, J. J. Thomson, Charles Babbage, Charles Darwin, Stephen Hawking, Christopher Wren, Alan Turing, Francis Crick, Joseph Lister, Tim Berners-Lee, Paul Dirac, Andrew Wiles et Richard Dawkins. Quelques experts affirment que le premier concept d’un système métrique apparaît avec John Wilkins, alors premier secrétaire de la Royal Society, en 1668. En tant que lieu de naissance de la Révolution Industrielle, l’Angleterre abrite de nombreux inventeurs de la fin du XVIIIe siècle au début du XIXe siècle. Parmi les célèbres ingénieurs anglais se trouve Isambard Kingdom Brunel, plus connu pour la création du Great Western Railway, pour la fabrication d’une série de bateaux à vapeur et de nombreux ponts, ce qui provoque une révolution du transport public et des méthodes d’ingénierie. La Révolution Industrielle est née du moteur à vapeur de Thomas Newcomen. Le physicien Edward Jenner met au point le vaccin contre la variole, puis reconnu pour avoir « sauvé plus de vies […] que toutes celles qui ont été perdues dans toutes les guerres de l’Humanité de l’Histoire connue ».
+
+De nombreuses inventions et découvertes ont été réalisées en Angleterre, comme le moteur à réaction, la première machine à filer industrielle, le premier ordinateur et le premier ordinateur moderne, le World Wide Web ainsi que le protocole HTTP et le langage HTML, la première transfusion sanguine réussie, l’aspirateur, la tondeuse à gazon, la ceinture de sécurité, l’aéroglisseur, le moteur à vapeur, le moteur électrique, ou encore la théorie de l'évolution de Charles Darwin et la théorie atomique. Isaac Newton a développé la loi de la gravitation universelle, la mécanique newtonienne, et calcul infinitésimal. Robert Hooke a donné son nom à la loi d’élasticité des solides. L’Angleterre est aussi à l’origine du chemin de fer, du thermosiphon, du tarmac, de l’élastique, du piège à souris, de la lampe à incandescence, de la locomotive à vapeur, du semoir moderne, et de nombreuses nouvelles techniques et technologies développées sont utilisées en ingénierie de précision.
+
+Axes de communication et transports
+Article détaillé : Système ferroviaire britannique.
+
+L'autoroute M1 en Angleterre.
+Le département des Transports est le ministère responsable de la supervision des transports en Angleterre. Il y a de nombreuses autoroutes et beaucoup de routes nationales, comme la route A1, qui traverse l’Est de l’Angleterre, de Londres à Newcastle (la plus grande partie de celle-ci est une autoroute), et ce jusqu’à la frontière entre l'Angleterre et l'Écosse. L’autoroute anglaise la plus longue est la M6, et part de Rugby jusque dans le Nord-Ouest de la région. Les autres routes principales sont la M1 de Londres à Leeds, la M25 qui entoure Londres, la M60 autour de Manchester, la M4 de Londres au pays de Galles du Sud, la M62 de Liverpool au Yorkshire de l’Est via Manchester, et la M5 de Birmingham à Bristol vers le sud-ouest.
+
+Le transport en bus dans la région est très répandu, les principales compagnies sont National Express, Arriva et Go-Ahead Group. Les bus rouges à impériale à Londres sont devenus un symbole de l’Angleterre. Il existe deux réseaux ferroviaires à grande vitesse : le métro de Londres, et le métro Tyne and Wear qui dessert Newcastle, Gateshead et Sunderland. Il y a aussi plusieurs réseaux de tramways, comme celui de Blackpool, le Manchester Metrolink, le Sheffield Supertram, le Midland Metro, ou le Tramlink, système basé à Croydon dans le Sud de Londres.
+
+
+Les voyages en train sont très populaires en Angleterre.
+Le réseau ferroviaire anglais est le plus ancien au monde, et a accueilli ses premiers passagers dès 1825. La majeure partie des 16 116 kilomètres du réseau de chemin de fer britannique se trouve en Angleterre, uniformément répartis, même si une forte proportion des lignes est fermée après la seconde guerre mondiale. L’écartement des rails est en général standard (pour les voies uniques, doubles ou multiples), et il existe aussi quelques voies étroites, principalement les chemins de fer héritages. Il est possible d’aller en train, en France et en Belgique, grâce au tunnel sous la Manche, terminé en 1994.
+
+L’Angleterre possède un réseau aérien étendu, domestique et international. Le plus grand aéroport est l’aéroport de Londres Heathrow, et il est le deuxième mondial en nombre de passagers internationaux. Les aéroports de Londres Gatwick, de Manchester, de Londres Stansted, de Londres Luton, ou de Birmingham sont également importants. La mer permet le transport en ferry, localement et internationalement, dont l’Irlande, les Pays-Bas et la Belgique. Il y a environ 7 100 kilomètres de voies navigables en Angleterre, dont la moitié est la propriété de British Waterways, même si ce type de transport est limité. La Tamise est la voie navigable la plus empruntée en Angleterre, car les exportations et importations sont concentrées sur le Port de Tilbury dans l’estuaire de la Tamise. C’est l’un des trois ports les plus importants du Royaume-Uni.
+
+Éducation
+
+La salle de Christ Church, université d'Oxford.
+Le département de l'Éducation est le ministère gouvernemental responsable des questions touchant les personnes âgées de moins de 19 ans en Angleterre, notamment les éducations en train sont très populaires en Angleterre[50]. Environ 93 % des écoliers anglais fréquentent des écoles publiques et financées par l'État (académies, écoles religieuses, écoles d'appartements, académies technologiques, collèges d'enseignement supérieur).
+
+Le sondage réalisé par le programme PISA en 2006 situe le système éducatif britannique nettement au-dessus de la moyenne OCDE. Il est obligatoire d'aller à l'école primaire dès l'âge de 5 ans. Les deuxième et sixième années comprennent chacune un examen, respectivement l'Étape clé 1 et l'Étape clé 2. Après l'école primaire, vous avez le choix entre deux types d'écoles[51] :
+
+Comprehensive state ;
+Grammar school.
+Les Grammar school sont pour les élèves les plus talentueux alors les Comprehensive state sont ouvertes à tous les élèves. Il existe également un certain nombre écoles entièrement sélectives et quelques dizaines écoles partiellement sélectives. Près de 90 % des écoles secondaires financées par l’État sont des écoles spécialisées, recevant des fonds supplémentaires pour développer une ou plusieurs matières (arts de la scène, art et design, affaires, sciences humaines, langues, sciences, mathématiques, technologie, ingénierie, etc.) qui peut jouer jusqu’à 10 % lors la sélection des admissions à l’aptitude dans la spécialité[52],[53].
+
+Après avoir terminé la scolarité obligatoire, les étudiants passent les examens GCSE. Les étudiants peuvent ensuite choisir de poursuivre leurs études pendant deux ans dans des établissements d'enseignement supérieur et des collèges de sixième année, qui font souvent partie d'un site d'école secondaire. Les examens de niveau A sont passés par un grand nombre d'étudiants de l'enseignement supérieur et constituent souvent la base d'une candidature à l'université. La formation continue couvre un vaste programme d'études, d'apprentissages et de récompenses professionnelles. Les collèges supérieurs proposent des cours académiques et professionnels[54].
+
+Les étudiants de l'enseignement supérieur fréquentent normalement l'université à partir de 18 ans, où ils étudient pour obtenir un diplôme universitaire. Il y a plus de 90 universités en Angleterre, dont toutes sauf une sont des institutions publiques. Le Department for Business, Innovation and Skills est le département gouvernemental responsable de l'enseignement supérieur en Angleterre. Les deux les plus célèbres et les plus vieilles sont l'université d'Oxford et l'université de Cambridge[55].
+
+L'enseignement technique et professionnel au Royaume-Uni est introduit pendant les années de l'enseignement secondaire et se poursuit jusqu'à l'enseignement supérieur et supérieur. L'enseignement professionnel secondaire est également connu sous le nom de formation continue. Il est séparé de l'enseignement secondaire et n'appartient pas à la catégorie de l'enseignement supérieur. La formation continue comprend un enseignement à orientation professionnelle ainsi qu'une combinaison de l'enseignement secondaire général[56].
+
+Culture
+Architecture
+Articles détaillés : Culture en Angleterre et Renaissance anglaise.
+Article détaillé : Art anglo-normand.
+White stone building with tower topped with a dome. In the foreground are trees and a red rectangular vertical box with windows.
+Baroque anglais de la cathédrale Saint-Paul de Londres.
+Un grand nombre d'anciens menhirs ont été érigés pendant la préhistoire, parmi les plus connus sont Stonehenge, Devil's Arrows, monolithe de Rudston et cromlech de Castlerigg[57]. Avec le développement de l'architecture romaine il y a eu de nombreuses basiliques, thermes, amphithéâtres, arcs de triomphe, villas, temples romains, voies romaines, forts romains, aqueducs, palissades[58]. Ce sont les Romains qui ont fondé des premières cités et villes telles que Londres (Londinium), Bath (Aquae Sulis), York (Eburacum), Chester (Deva) et St Albans (Verulamium). L'exemple le plus connu est peut-être le Mur d'Hadrien qui s'étend dans tout le nord de l'Angleterre[58]. Un autre exemple bien préservé est les thermes de Bath à Bath, ville du comté de Somerset, au Sud-Ouest de l'Angleterre[58].
+
+Les constructions séculaires de l'architecture anglo-saxonne étaient des constructions simples qui utilisaient principalement le bois avec de la chaume pour les toitures. L'architecture ecclésiastique a changé, passant d'une synthèse de monachisme irlando-saxon[59],[60] à un art paléochrétien caractérisé par des pilastres, des arcades, des balustres et des triangulaires. Après la conquête normande en 1066 de nombreux châteaux en Angleterre ont été bâtis afin que les Law Lords puissent confirmer leur autorité et se mettre à l'abri d'invasion venant du nord. Certains des plus célèbres châteaux médiévaux incluent parmi tant d'autres la tour de Londres, le château de Warwick, le château de Durham et le château de Windsor[61].
+
+Yellow stone tower with two circular turrets which run the height of the building.
+La tour de Broadway est une folie à Worcestershire.
+Tout au long de l'ère Plantagenêt une architecture gothique anglaise n'a cessé de se développer, les cathédrales médiévales telles que la cathédrale de Cantorbéry, l'abbaye de Westminster et la Cathédrale d'York, en sont de parfaits exemples[61]. S'inspirant de l'architecture normande il y avait aussi des châteaux, des palais, des grandes maisons, des universités et des églises paroissiales. L'architecture médiévale a été achevée avec le style Tudor du XVIe siècle, connu maintenant comme l'arche Tudor, qui était une caractéristique définie comme l'étaient la construction des maisons en torchis. Au lendemain de la Renaissance une forme d'architecture rappelant l'Antiquité classique, mélangée avec le christianisme apparut, le style baroque anglais. L'architecte Christopher Wren célèbre pour son rôle dans la reconstruction de Londres après le grand incendie de 1666 en est un des plus notables promoteurs[62].
+
+L'architecture georgienne suivit, dans un style plus raffiné, évoquant une simple forme palladienne, le Royal Crescent à Bath est l'un des meilleurs exemples. Avec l'émergence du romantisme au cours de la période victorienne, un style néogothique a été lancé dans le même temps, la révolution industrielle a ouvert la voie pour des bâtiments tels que le Crystal Palace. Depuis les années 1930 diverses formes modernistes ont fait leur apparition dont l'accueil est souvent controversé, et même si les mouvements de résistance traditionaliste continuent avec le soutien de lieux d'influence.
+
+Folklore
+Article détaillé : Folklore anglais.
+Le folklore anglais s’est développé pendant plusieurs siècles. Quelques-uns des personnages et des histoires existent à travers toute l’Angleterre, mais la plupart proviennent de régions très spécifiques. Les êtres folkloriques communs sont des pixies, des elfes, des croque-mitaines, des trolls, des gobelins, et des nains. Alors que de nombreuses légendes semblent très anciennes, par exemple celles qui mettent en scène Offa d'Angeln ou Völund, d’autres ont été conçues après l’invasion normande. La légende de Robin des Bois et ses Joyeux Compagnons de la forêt de Sherwood qui combattent le shérif de Nottingham, est sûrement la plus connue d’entre toutes.
+
+Pendant le Moyen Âge classique, des légendes originaires de mythes brittoniques intègrent le folklore anglais : le mythe arthurien. Elles proviennent de sources anglo-normandes, françaises ou galloises, et mettent en avant le Roi Arthur, Camelot, Excalibur, Merlin, et les Chevaliers de la Table Ronde, comme Lancelot du Lac. Ces histoires sont rapportées par Geoffroy de Monmouth dans son Historia regum Britanniae. Une autre figure précoce des traditions britanniques, Coel Hen, semble être basé sur un personnage réel de l’Angleterre post-romaine. Beaucoup de ces légendes et pseudo-histoires font partie de la matière de Bretagne.
+
+Plusieurs personnages folkloriques sont fondés sur des personnes historiques, ou en partie, dont l’histoire a traversé les siècles. Par exemple, on dit de Godiva qu’elle a traversé Coventry nue à dos de cheval, Hereward l'Exilé est une figure anglaise héroïque représentant la résistance à l’invasion normande, Herne est un cavalier fantôme associé à la forêt de Sherwood et au Windsor Great Park, et la Mère Shipton est l’archétype de la sorcière. Dick Whittington était une personne réelle, avec la légende de son chat ajoutée. Chaque année, les 5 novembre sont l’occasion de faire des feux de joie, de tirer des feux d’artifice, et de manger des pommes d’amour en commémoration à la conspiration des poudres, centrée autour du personnage de Guy Fawkes. Le bandit chevaleresque, comme Dick Turpin, est un personnage récurrent, et Barbe Noire est le pirate typique. Il y a de nombreuses activités folkloriques, que ce soit au niveau national ou régional, comme la Morris dance, la Maypole dance, la Rapper sword (une danse de l’épée) dans le Nord-Est, la Long Sword dance dans le Yorkshire, les Mummers Plays, le bottle-kicking dans le Leicestershire, et le Cooper's Hill Cheese-Rolling and Wake à Brockworth. Il n’y a pas de costume officiel national, mais certains ont une certaine renommée comme les Pearly Kings and Queens londoniens, les Scots Guards, et les Beefeaters (gardes de la tour de Londres).
+
+Cuisine
+Article détaillé : Cuisine anglaise.
+Fish and chips wrapped in paper.
+Le fish and chips fait partie du patrimoine de la cuisine anglaise
+Depuis le début de l'époque moderne, la nourriture de l'Angleterre a toujours été caractérisée par sa simplicité d'approche, l'honnêteté de sa saveur, et le recours à la haute qualité des produits naturels[63]. Pendant le Moyen Âge et pendant la Renaissance, la cuisine anglaise était dotée d'une excellente réputation, malgré un déclin qui a commencé pendant la révolution industrielle avec l'abandon de la terre et l'urbanisation croissante de la population. Mais la nourriture anglaise a souvent, de nos jours, la réputation de ne pas être très sophistiquée ou même rudimentaire[64]. Cependant, la cuisine anglaise a récemment[C'est-à-dire ?] connu un renouveau, qui a été reconnu par les critiques gastronomes avec quelques bonnes évaluations dans le magazine britannique Restaurant[65]. Le premier livre de recettes anglaises est le Forme of Cury de la cour royale de Richard II[66].
+
+An apple pie on a red table cloth, with green apples next to it.
+L'apple pie est consommé en Angleterre depuis le Moyen Âge.
+Les exemples traditionnels de la cuisine anglaise incluent le Sunday roast; comportant généralement du bœuf, de l'agneau ou du poulet, servi avec un assortiment de légumes bouillis, du Yorkshire pudding et de la sauce[67]. D'autres repas importants incluent le fish and chips et le petit déjeuner anglais comprenant bacon, tomates grillées, pain frit, boudin noir, baked beans, champignons frits, saucisses et œufs. Plusieurs tourtes à la viande sont consommées telles que le steak and kidney pie (en), le shepherd's pie, le cottage pie, le Cornish pasty et le pork pie (en), le dernier étant consommé froid[67].
+
+Les saucisses sont couramment consommées, soit en tant que bangers and mash ou toad in the hole. Le Lancashire hotpot est un ragoût bien connu. Certains des fromages les plus populaires sont le cheddar, le cheshire, le red leicester, le stilton et le Wensleydale. De nombreux plats hybrides anglo-indiens avec du curry ont été créés tels que le poulet tikka masala et le balti. Les plats anglais sucrés comprennent l'apple pie, la mince pie, le spotted dick, les scones, l'eccles cake, la custard et le sticky toffee pudding. Les boissons communes sont le thé, qui est très consommé grâce à Catherine de Bragance[68], tandis que des boissons alcoolisées comprennent les vins et les bières britanniques.
+
+Peinture et arts visuels
+Article détaillé : Peinture anglaise.
+Les premiers exemples connus sont les pierres préhistoriques et les pièces d’art pariétal, en particulier dans le Yorkshire du Nord, la Northumbrie et la Cumbria, et aussi plus loin dans le sud de l'Angleterre, dans les grottes de Creswell. Avec l’arrivée de la culture romaine au Ier siècle, de nouvelles formes d’art apparaissent : des statues, des bustes, le travail du verre et les mosaïques. De nombreux artefacts ont été retrouvés, à la villa romaine de Lullingstone et à Aldborough. Durant le haut Moyen Âge, le style évolue vers les croix sculptées, la peinture de manuscrits, la joaillerie d’or et d’émail, et démontre un goût pour les dessins entrelacés, comme le trésor de Staffordshire découvert en 2009. Ce style fusionne ensuite avec l'art insulaire, comme en témoignent les Évangiles de Lindisfarne et le Psautier Vespasien. Plus tard, l’art gothique devient populaire à Winchester et à Cantorbéry, par exemple avec le Livre des bénédictions de saint Æthelwold ou le psautier de Luttrell.
+
+De nombreux artistes accompagnent l’ère des Tudor au sein même de la Cour, qui font de la peinture de portraits un élément fondamental et durable de l’art anglais. L’Allemand Hans Holbein en est le chef de file, et Nicholas Hilliard continue dans cette voie. Pendant l'ère Stuart, les artistes continentaux, en particulier les peintres flamands, influencent l’Angleterre, comme Anthony Van Dyck, Peter Lely, Godfrey Kneller et William Dobson. Le XVIIIe siècle est marqué par la création de la Royal Academy, et un certain classicisme, fondé sur l’art de la Renaissance, supplante les autres styles. Thomas Gainsborough et Joshua Reynolds deviennent deux des artistes les plus prisés d’Angleterre.
+
+L’école de Norwich perpétue la tradition des paysages, pendant que le préraphaélisme, dans un style détaillé et éclatant, faire revivre le style de la Renaissance : les leaders du mouvement sont Holman Hunt, Dante Gabriel Rossetti et John Everett Millais. Au XXe siècle, les artistes remarquables sont Henry Moore, sculpteur, et les modernistes britanniques en général. Parmi les peintres contemporains, Lucian Freud détient le record mondial de la vente en valeur d’un tableau, pour un artiste vivant, avec Benefits Supervisor Sleeping, en 2008.
+
+Littérature, poésie et philosophie
+Article détaillé : Littérature anglaise.
+Les premiers auteurs anglais écrivent en latin, comme Bède le Vénérable et Alcuin. La littérature vieil-anglaise fournit le poème épique Beowulf, la Chronique anglo-saxonne, ainsi que des textes chrétiens comme Judith, l’Hymne de Cædmon et de nombreuses hagiographies. Après la conquête normande de l’Angleterre, le latin survit parmi les classes sociales éduquées, ainsi que dans la littérature anglo-normande.
+
+La littérature en moyen anglais a émergé avec Geoffrey Chaucer (auteur des Contes de Canterbury), John Gower, le Pearl Poet et William Langland. Les moines franciscains, Guillaume d'Ockham et Roger Bacon sont les philosophes majeurs du Moyen Âge. Julienne de Norwich avec ses Revelations of Divine Love, est une éminente écrivaine chrétienne. Avec la Renaissance anglaise, la littérature en anglais moderne naissant apparaît. William Shakespeare, dont les œuvres les plus connues sont Hamlet, Roméo et Juliette, Macbeth, et Le Songe d’une nuit d’été, reste l’un des auteurs les plus célèbres de la littérature anglaise.
+
+Christopher Marlowe, Edmund Spenser, Philip Sidney, Thomas Kyd, John Donne, Ben Jonson sont d’autres auteurs connus de la littérature élisabéthaine. Francis Bacon et Thomas Hobbes ont écrit sur l’empirisme et le matérialisme, ainsi que sur la méthode scientifique et le contrat social. Robert Filmer a écrit sur le droit divin. Andrew Marvell est le poète le plus fameux du Commonwealth, pendant que John Milton publie Le Paradis perdu pendant la Restauration anglaise.
+
+Quelques-uns des plus remarquables philosophes des Lumières anglaises sont John Locke, Thomas Paine, Samuel Johnson et Jeremy Bentham. Edmund Burke suit plus tard et est considéré comme le fondateur du conservatisme. Le poète Alexander Pope et ses vers satiriques sont de plus en plus connus. Puis les auteurs anglais jouent un rôle significatif dans le romantisme, et Samuel Taylor Coleridge, Lord Byron, John Keats, Mary Shelley, Percy Bysshe Shelley, William Blake, William Wordsworth et Alfred Tennyson deviennent des figures reconnues.
+
+En réaction à la Révolution industrielle, les auteurs agrariens cherchent une voie entre la liberté et la tradition. William Cobbett, G. K. Chesterton et Hilaire Belloc en sont les principaux représentants, en lien avec Arthur Penty et le socialisme corporatif, et G. D. H. Cole et le mouvement coopératif. L’empirisme continue avec John Stuart Mill et Bertrand Russell, tandis que Bernard Williams s’implique dans la philosophie morale. Les auteurs de l’ère victorienne sont Charles Dickens, la famille Brontë, Jane Austen, George Eliot, Rudyard Kipling, Thomas Hardy, H. G. Wells, Lewis Carroll ou bien encore Evelyn Underhill. Depuis, l’Angleterre a enfanté de nombreux romanciers devenus très célèbres, comme George Orwell, D. H. Lawrence, Virginia Woolf, Enid Blyton, Aldous Huxley, Agatha Christie, Terry Pratchett, J. R. R. Tolkien, et J. K. Rowling.
+
+Musique et arts du spectacle
+Article détaillé : Musique britannique.
+La musique traditionnelle britannique est vieille de plusieurs siècles et a inspiré plusieurs genres musicaux, parmi lesquels les chants de marins, les gigues, les hornpipes, et des danses traditionnelles. Ces musiques ont de nombreuses variations, et des particularités régionales. Au XVIe siècle, Wynkyn de Worde imprime des ballades de Robin des Bois qui ont un fort retentissement, tout comme The English Dancing Master de John Playford ou les Roxburghe Ballads (en) de Robert Harley. Les chansons les plus connues à cette époque sont The Good Old Way, Pastime with Good Company, Maggie Mae, et Spanish Ladies, parmi d’autres. De nombreuses comptines sont d’origine anglaise, telles Twinkle, Twinkle, Little Star, Roses are red, Jack and Jill, Here We Go Round the Mulberry Bush, ou Humpty Dumpty.
+
+Les premiers compositeurs anglais de musique classique sont des artistes de la Renaissance, Thomas Tallis et William Byrd, suivis de Henry Purcell pendant la période baroque. George Frideric Handel, né allemand, devient un sujet britannique, et passe la majeure partie de sa vie de compositeur à Londres, créant quelques-uns des morceaux les plus célèbres de la musique classique, comme le Messie, Water Music et Music for the Royal Fireworks. Le paysage des compositeurs classiques anglais se renouvelle complètement au XXe siècle, avec Benjamin Britten, Frederick Delius, Edward Elgar, Gustav Holst, Ralph Vaughan Williams, William Walton ; Michael Nyman en est le chef de file, grâce à La Leçon de piano.
+
+Dans le champ de la pop et du rock, de nombreux artistes et groupes anglais sont régulièrement cités comme les musiciens les plus influents et les plus prolifiques de tous les temps en matière de vente. En font partie, par exemple, The Beatles, Led Zeppelin, The Who, Pink Floyd, Elton John, Genesis, Queen, Black Sabbath, Iron Maiden, Rod Stewart, The Rolling Stones, The Stone Roses, The Libertines, Blur, Oasis, Supertramp et plus récemment, Adele, Ed Sheeran, Arctic Monkeys et One Direction. De très nombreux genres musicaux ont leurs racines, ou un fort lien de parenté, avec l’Angleterre, comme la British invasion, le hard rock, le glam rock, le heavy metal, le mod, la Britpop, le drum and bass, le rock progressif, le punk rock, le rock indépendant, le rock gothique, le shoegazing, l’acid house, l’UK garage, le trip hop et le dubstep.
+
+Les grands festivals de musique en plein air en été et à l’automne attirent beaucoup de monde, tels le festival de Glastonbury, le V Festival, et les Reading and Leeds Festivals. L’opéra le plus remarquable en Angleterre est le Royal Opera House, à Covent Garden. The Proms, qui est une saison de musique classique au Royal Albert Hall, est un événement culturel majeur annuel. The Royal Ballet est au premier rang des compagnies de ballet classique. Sa réputation provient de deux grandes figures de la danse du XXe siècle, prima ballerina Margot Fonteyn et le chorégraphe Frederick Ashton.
+
+Musées, bibliothèques
+Article connexe : Musées en Angleterre.
+A museum building designed in the Greek Revival style with a flag on top.
+Le British Museum à Londres.
+English Heritage est un organisme gouvernemental avec une large attribution en matière de gestion du patrimoine historique de l'Angleterre. Il est actuellement[Quand ?] parrainé par le département de la Culture, des Médias et du Sport. L'organisme associatif National Trust for Places of Historic Interest or Natural Beauty tient un rôle contrasté. Dix-sept des vingt-cinq sites du patrimoine mondial de l'UNESCO au Royaume-Uni mondial relèvent des lieux historiques de l'Angleterre. Certains des plus connus incluent le mur d'Hadrien, Stonehenge, Avebury and Associated Sites, la tour de Londres, le littoral du Dorset et de l'est du Devon, Saltaire, Ironbridge Gorge, le parc de Studley Royal et plusieurs autres.
+
+Il y a de nombreux musées en Angleterre, mais le plus remarquable est le British Museum de Londres. Sa collection de plus de sept millions d'objets provenant de tous les continents est l'un des plus grands et le plus complet dans le monde, illustrant et documentant l'histoire de la culture humaine depuis son commencement jusqu'à nos jours. La British Library de Londres est la bibliothèque nationale et est l'une des bibliothèques de recherche les plus importantes au monde, maintenant plus de 150 millions d'articles dans toutes les langues connues et tous les formats, incluant environ 25 millions de livres. La galerie d'art la plus ancienne est la National Gallery de Trafalgar Square, qui abrite une collection de plus de 2 300 peintures datant du milieu du XIIIe siècle à 1900. Les galeries de la Tate abritent des collections nationales d'art britannique moderne et international; elles sont également les hôtes du controversé prix Turner.
+
+Sports
+The interior of an empty stadium as viewed from its upper tier of seating. The seats are a vivid red and the pitch is a vivid green. The pale grey sky is visible through an opening in the ceiling above the pitch.
+Intérieur du Wembley Stadium, un des stades les plus chers jamais construits[69].
+Article détaillé : Sport en Angleterre.
+L'Angleterre a un héritage sportif très fort, et pendant le XIXe siècle la nation a codifié de nombreux sports qui se jouent maintenant dans le monde entier. Les sports originaires de l'Angleterre sont le football, le cricket, le rugby à XV, le rugby à XIII, le tennis, le badminton, le squash[70], le rounders[71], la boxe, le snooker, le billard, les fléchettes, le tennis de table, le boulingrin, le netball, courses de chevaux pur-sang et la chasse à courre. Il a aidé le développement de la voile et la Formule 1. Le football est le plus populaire de ces sports. L'équipe d'Angleterre de football, qui joue dans le mythique stade de Wembley, a remporté la Coupe du monde de football de 1966, année où la nation a accueilli la compétition.
+
+Au niveau du football, l'Angleterre est reconnue par la FIFA comme le lieu de naissance de ce sport, avec notamment le club de football de Sheffield fondé en 1857 et qui demeure le plus ancien club de football. La Fédération d'Angleterre de football formée en 1863, est la plus ancienne association nationale de football au monde et joua un rôle important dans la mise en place des règles de son sport. La FA Challenge Cup et la Football League ont été respectivement les toutes premières compétitions. Dans l'ère moderne la Premier League est la ligue de football la plus lucrative du monde et fait partie de l'élite internationale. La Ligue des champions a été remporté par Chelsea, Liverpool, Manchester United, Nottingham Forest, Aston Villa et Manchester City, tandis que Arsenal, Leeds United et Tottenham ont atteint la finale[72].
+
+Men in cricket whites play upon a green grass cricket field amidst a stadium.
+L'Angleterre en route vers la victoire contre l'Australie durant les test-matchs de cricket de 2009 au Lord's Cricket Ground.
+Le cricket est généralement considéré comme ayant été élaboré en début de la période médiévale parmi les communautés agricoles et de la métallurgie du Weald[73]. L'Équipe d'Angleterre de cricket est l’équipe nationale de cricket de l’Angleterre et du pays de Galles. Une des rivalités au sommet de ce jeu est la série de test-matchs appelée The Ashes entre l'Angleterre et l'Australie, qui se déroule depuis 1882. La finale de l'édition 2009 a été regardée par près de 2 millions de personnes, bien que le point culminant fut l'édition de 2005 qui a été vue par 7,4 millions[74]. L'Angleterre est actuellement[Quand ?] la détentrice du trophée et est classée 5e à la fois des compétitions de cricket Test et One-day International[75].
+
+L'Angleterre a accueilli quatre Coupe du monde de cricket (1975, 1979, 1983, 1999) et l'ICC World Twenty20 en 2009. Il existe plusieurs compétitions de niveau national, y compris le County Championship dans lequel l'équipe de Yorkshire est de loin le club le plus brillant et avoir remporté la compétition à 31 reprises[76]. Le Lord's Cricket Ground situé à Londres, est parfois appelé la « Mecque du cricket »[77]. William Penny Brookes a été important dans l'organisation du cricket pour les Jeux olympiques modernes. Londres a accueilli les Jeux olympiques d'été en 1908,1948 et 2012. L'Angleterre prend part aux Jeux du Commonwealth, qui se déroule tous les quatre ans. Sport England est l'organe directeur responsable de la distribution des fonds et fournit des orientations stratégiques pour l'activité sportive en Angleterre. Le Grand Prix créé en 1926 se tient chaque année à Silverstone[78].
+
+L'équipe d'Angleterre de rugby à XV, considérée comme l’une des meilleures sélections nationales au monde, a remporté la Coupe du monde en 2003. Par ailleurs, l’Angleterre a été l'une des nations hôtes de la compétition en 1991 et en 1999. Elle l’accueille de nouveau en 2015[79]. Les clubs de l'élite anglaise, surtout basés dans le Sud du pays, participent à la Premiership et à la coupe anglo-galloise. Les clubs des Leicester Tigers, des London Wasps, de Bath et des Northampton Saints ont remporté la coupe d’Europe.
+
+En Angleterre, le rugby à XIII est né en 1895 à la suite de la scission avec le rugby à XV et s’est imposé comme l’un des principaux sports du nord du pays. La sélection anglaise figure parmi les grandes nations du XIII mondial, finaliste à plusieurs reprises de la Coupe du monde. Le pays accueille la Super League, championnat professionnel européen de référence, dominé par des clubs historiques tels que Wigan, St Helens ou Leeds. Plusieurs joueurs emblématiques, de Ellery Hanley à Sam Burgess, ont contribué à son rayonnement, tandis que la pratique féminine connaît un essor rapide avec une équipe nationale régulièrement engagée au plus haut niveau.
+
+En tennis, le Tournoi de Wimbledon qui se déroule chaque année à Londres est le plus ancien tournoi de tennis au monde.
+
+Symboles
+Article connexe : Hymne national de l'Angleterre.
+A red shield tapers to its bottom end; on it are three stylised golden lions with blue claws.
+Les armoiries royales de l'Angleterre.
+Le drapeau national de l'Angleterre, connu sous le nom de la Croix-Saint-Georges, a été le drapeau national depuis le XIIIe siècle. À l'origine, le drapeau a été utilisé par la république de Gênes. Le monarque anglais a rendu un hommage au doge de Gênes à compter de 1190, de sorte que les navires anglais pouvaient battre le pavillon comme un moyen de protection lors de l'entrée en mer Méditerranée. Une croix rouge a agi comme un symbole pour de nombreux croisés aux XIIe et XIIIe siècles. Il est devenu associé à Georges de Lydda, qu'ils revendiquaient comme leur saint patron et utilisaient sa croix comme un étendard[80]. Depuis 1606 la Croix de St George a fait partie de la conception du Union Jack, drapeau britannique conçu par le roi James I.
+
+A red and white flower.
+La rose Tudor, emblème floral national de l'Angleterre.
+Il existe de nombreux autres symboles et objets symboliques, à la fois officiels et non officiels, y compris la rose Tudor, l'emblème floral national, le Dragon Blanc et les Trois Lions présentés sur les Armoiries royales de l'Angleterre. La rose Tudor a été adoptée comme l'emblème national de l'Angleterre à l'époque de la guerre des Deux-Roses (1455–1485) entre les maisons d'York et de Lancastre avec la victoire d'Henri Tudor (futur Henri VII) sur Richard III, lors de la bataille de Bosworth, comme un symbole de paix[81]. C'est un symbole syncrétique dans lequel ont fusionné la rose blanche des York et la rose rouge des Lancasters-cadets des Plantagenêt qui s'affrontèrent pour le contrôle de la maison royale. Le symbole est également connu sous le nom de la Rose d'Angleterre[82]. Le chêne est le symbole de l'Angleterre, représentant force et courage. Le terme « Chêne royal » (Royal Oak) est utilisé pour désigner l'évasion du roi Charles II qui, pourchassé par les parlementaires après l'exécution de son père, s'est caché dans un chêne pour éviter d'être repéré avant de s'exiler en toute sécurité.
+
+Les armoiries royales d'Angleterre, un blason national avec trois lions, remontent à leur adoption par Richard Ier d'Angleterre de 1198 à 1340. Il est décrit « de gueules à trois léopards d'or armés et lampassés d'azur », c'est-à-dire rouge avec trois lions jaunes regardant le spectateur. L'origine de ce blason des rois d'Angleterre reste sans explication définitive: selon une théorie contestée[réf. nécessaire], il s'agit de l'union de l'héraldique du duché de Normandie (« de gueules à deux léopards d'or) et de l'Aquitaine (« de gueules à un léopard d'or »).
+
+L'Angleterre n'a pas d'hymne national officiel à la différence du Royaume-Uni et son hymne God Save the King. Toutefois, les éléments suivants sont souvent considérés comme des hymnes nationaux anglais non officiels : Jerusalem, Land of Hope and Glory (utilisé pour l'Angleterre pendant les Jeux du Commonwealth de 2002)[83], et I Vow to Thee, My Country. La fête nationale anglaise est la Saint Georges, celui-ci étant le saint patron de l'Angleterre, elle se tient chaque année le 23 avril[84].
+
+Notes et références
+Notes
+Références
+(en) « English Channel [archive] », Encyclopædia Britannica (consulté le 15 août 2009).
+« Tunnel sous la Manche [archive] », sur Calais Côte d'Opale Tourisme, 8 décembre 2014 (consulté le 12 janvier 2022)
+(en) « The River Severn [archive] », BBC (consulté le 5 décembre 2010).
+(en) « Severn Bore and Trent Aegir [archive] », Environment Agency (consulté le 5 décembre 2010).
+(en) « North West England & Isle of Man: climate [archive] », Met Office (consulté le 5 décembre 2010).
+(en) « Pennines [archive] », Smmit Post (consulté le 8 septembre 2009).
+M. Marles, Merveilles de la nature et de l'art dans les cinq parties du monde ou description … Europe, 3, Fruger et Brunet [Imp.J.B.Paya. Toulouse], 1836 (lire en ligne [archive])
+« Le Petit Larousse illustré de 1906 à 1948 [archive] », sur Nénufar (consulté le 4 février 2025)
+(en) « National Parks – About us [archive] », nationalparks.gov.uk (consulté le 5 décembre 2010).
+« Comment la Grande-Bretagne est devenue une île [archive] », sur la-croix.com, 7 avril 2017 (consulté le 20 mars 2022)
+(en) « What is the Climate like in Britain? », Woodlands Kent (consulté le 5 septembre 2009).
+(en) « Temperature record changes hands [archive] », BBC News, 2003 (consulté le 5 septembre 2009).
+« Met Office: English climate », sur web.archive.org, 15 décembre 2005 (consulté le 12 janvier 2022)
+(en) « 2011 Census – Built-up areas [archive] », ONS (consulté le 5 février 2014).
+(en) « Bone find may rewrite history [archive] », BBC News, 4 juin 2002 (consulté le 5 septembre 2009).
+[PDF] « Glaciation [archive] », BNSC.gov.uk (consulté le 5 septembre 2009) [PDF].
+« 10,000 to 200,000 Years Ago [archive] », HistoryofEngland.net (consulté le 5 septembre 2009).
+« Tertiary Rivers: Tectonic and structural background [archive] », université de Cambridge (consulté le 9 septembre 2009).
+(en) Iñigo Olalde, Selina Brace […], David Reich, The Beaker phenomenon and the genomic transformation of northwest Europe [archive], nature.com, 555, pages 190–196, 8 mars 2018.
+(en) Arrival of Beaker folk changed Britain for ever, ancient DNA study shows [archive], theguardian.com, 22 février 2018.
+Peter Forbes, Who We Are and How We Got Here by David Reich review – new findings from ancient DNA [archive], theguardian.com, 29 mars 2018.
+« Aberystwyth University - News [archive] », Aber.ac.uk, 14 juin 2010 (consulté le 19 juin 2010).
+(en) Jason Burke, « Dig uncovers Boudicca's brutal streak [archive] », The Observer, 2000 (consulté le 5 septembre 2009).
+Venceslas Kruta, Les Celtes, Histoire et dictionnaire.
+Georges Dumézil, La religion romaine archaïque.
+Tacite (Publius Cornelius Tacitus), De vita Agricolae.
+(en) « Cornelius Tacitus, The Annals [archive] », Alfred John Church, William Jackson Brudribh, Ed (consulté le 22 décembre 2010).
+(en) « Architecture in Roman Britain » (consulté le 18 mars 2013).
+(en) Boris Rankov, The Praetorian Guard, Osprey Publishing, 1994, 64 p. (ISBN 978-1-85532-361-2), p. 16.
+(en) Kevin J Wright, The Christian Travel Planner, Thomas Nelson Inc, 2008, 432 p. (ISBN 978-1-4016-0374-8), p. 143.
+(en) Edward James, « Overview: Anglo-Saxons, 410 to 800 [archive] », BBC (consulté le 3 décembre 2010).
+(en-GB) Neil Johnston, « Voting age », commonslibrary.parliament.uk,‎ 14 novembre 2025 (lire en ligne [archive], consulté le 14 novembre 2025)
+(en) Dick Ahlstrom, « Genetic studies show our closest relatives are found in Galicia and the Basque region [archive] », sur The Irish Times (consulté le 12 janvier 2022)
+Daily Telegraph: What does being British mean ? Ask the Spanish [archive], consulté le 10 décembre 2009.
+Oppenheimer, Stephen (2006). Origins of the British. Carroll & Graf. (ISBN 0-7867-1890-0), p. 378.
+The New York Times : A United Kingdom? Maybe [archive], consulté le 8 août 2009.
+Office for National Statistics, Parents' Country of Birth, England and Wales, 2013 (table 7 du document Excel) [archive].
+Ethnic group by sex by age [archive], Official labour market statistics.
+« On being a Cornish "Celt": changing Celtic heritage and traditions » [archive du 20 septembre 2009], université d'Exeter (consulté le 1er février 2009)
+Emily Dugan, « The Cornish: They revolted in 1497, now they're at it again », The Independent, Londres,‎ 6 septembre 2009 (lire en ligne [archive du 19 août 2018], consulté le 17 septembre 2009)
+« Cornish in Schools » [archive du 7 octobre 2013], sur Cornish Language Partnership, 2009 (consulté le 5 octobre 2013)
+Government Offices for the English Regions, « Cornish language » [archive du 12 janvier 2016], gos.gov.uk (consulté le 22 septembre 2009)
+« The Cornish Language Development Project – Evaluation – Final Report, page 20 » [archive du 7 octobre 2013], Hywel Evans, Aric Lacoste / ERS (consulté le 5 octobre 2013)
+« South West – Cornish Language » [archive du 13 octobre 2008], Government Office South West (consulté le 17 septembre 2009)
+Cahal Milmo, « Cornish to be recognised as a national minority along with Scots, Welsh and Irish », The Independent,‎ 23 avril 2014 (lire en ligne [archive], consulté le 3 février 2019)
+Amandine Alexandre, « Pourquoi le système de santé public britannique est à l'agonie [archive] », Le JDD, 5 février 2018 (consulté le 5 mai 2018).
+(en) 2011 Census: Key Statistics for England and Wales, March 2011 [archive], Office for National Statistics.
+« The Welfare State – Never Ending Reform [archive] », BBC News (consulté le 17 septembre 2009).
+« Tax in England [archive] », AdviceGuide.org.uk (consulté le 5 septembre 2009).
+(en) « Department for Education [archive] », sur GOV.UK, 8 janvier 2024 (consulté le 21 janvier 2024)
+(en) « Types of school [archive] », sur GOV.UK (consulté le 21 janvier 2024)
+Bonnerot, Anne-Marie., Conjugaison anglaise, I.J.L, 2009 (ISBN 2-290-33565-7 et 978-2-290-33565-9, OCLC 716174264, lire en ligne [archive]).
+(en) « National curriculum [archive] », sur GOV.UK (consulté le 13 octobre 2021)
+(en) Judith Watson et Andrew Church, « The Social Effects of Travel to Learn Patterns - A Case Study of 16-19 Year Olds in London », Local Economy: The Journal of the Local Economy Policy Unit, vol. 24, no 5,‎ août 2009, p. 389–414 (ISSN 0269-0942 et 1470-9325, DOI 10.1080/02690940903166971, lire en ligne [archive], consulté le 21 janvier 2024)
+(en) « Universities and higher education - GOV.UK [archive] », sur www.gov.uk (consulté le 21 janvier 2024)
+(en) « Apprenticeships, 14 to 19 education and training for work - GOV.UK [archive] », sur www.gov.uk (consulté le 21 janvier 2024)
+« The Prehistoric Sites of Great Britain [archive] », Stone-Circles.org.uk (consulté le 5 septembre 2009).
+« Ancient Roman architecture in England and Wales [archive] », Castles.me.uk (consulté le 5 septembre 2009).
+Colgrave 1985, p. 326.
+Pevsner 1942, p. 14.
+Atkinson 2008, p. 189.
+Downes 2007, p. 17.
+Else 2007, p. 76.
+Else 2007, p. 85.
+(en) « Sitemap [archive] », sur Discovery (consulté le 12 janvier 2022)
+(en) Nicole Mart, « King Richard II's recipe book to go online », The Daily Telegraph, Londres,‎ 22 septembre 2008 (lire en ligne [archive], consulté le 5 septembre 2009).
+« Traditional English Food Specialities [archive] », TravelSignPosts.com (consulté le 5 septembre 2009).
+« Catherine of Braganza [archive] », Tea.co.uk (consulté le 5 septembre 2009).
+(en) « Wembley kick-off: Stadium is ready and England play first game in fortnight », Daily Mail, Londres,‎ 3 mars 2007 (lire en ligne [archive], consulté le 5 septembre 2009).
+« History of squash [archive] », WorldSquash2008.com (consulté le 5 septembre 2009).
+« History of the Game » (consulté le 20130318).
+« UEFA Champions League Finals 1956–2008 [archive] », RSSSF (consulté le 5 septembre 2009).
+Underdown 2000, p. 6.
+(en) Cricinfo staff, Ashes climax watched by a fraction of 2005 audience, Cricinfo, 26 août 2009 (lire en ligne [archive]).
+(en) ICC Test and ODI Championships / Official Team Rankings, Cricinfo (lire en ligne [archive]).
+(en) A brief history of Yorkshire, Cricinfo (lire en ligne [archive]).
+(en) Stephen Fay, « Cricket: Flaw Lord's out of order », The Independent, Londres,‎ 21 juin 1998 (lire en ligne [archive], consulté le 9 septembre 2009).
+(en) « The History of British Motorsport and Motor Racing at Silverstone [archive] », sur Silverstone, Silverstone.co.uk (consulté le 31 octobre 2009).
+(en) « England will host 2015 Rugby World Cup [archive] », BBC News, 28 juillet 2009 (consulté le 5 septembre 2009).
+« St. George – England's Patron Saint [archive] », Britannia.com (consulté le 1er février 2009).
+« Pourquoi le XV d'Angleterre a choisi la Rose comme emblème [archive] », sur LEFIGARO, 25 septembre 2015 (consulté le 12 janvier 2022)
+Jed Smith, « England's Rose – The Official History [archive] », Museum of Rugby, Twickenham, RugbyNetwork.net, 3 juin 2005 (consulté le 8 août 2009).
+(en) « Jason Cowley loves the Commonwealth Games [archive] », New Statesman (consulté le 5 septembre 2009).
+(en) « The Great Saint George Revival [archive] », BBC News, 23 avril 1998 (consulté le 5 septembre 2009).
+Voir aussi
+
+Une catégorie est consacrée à ce sujet : Angleterre.
+Sur les autres projets Wikimedia :
+
+l’Angleterre, sur Wikimedia Commons
+Angleterre, sur Wikinews
+Bibliographie
+(en) T.D. Atkinson, English Architecture, Read Books, 2008, 227 p. (ISBN 978-1-4097-2581-7)
+Bernard Cottret, Histoire de l'Angleterre : de Guillaume le Conquérant à nos jours, Paris, Tallandier, 2011, 611 p. (ISBN 978-2-84734-779-1, BNF 42435186)
+(en) Bertram Colgrave, Two lives of Saint Cuthbert, Cambridge University Press, 1985, 375 p. (ISBN 978-0-521-31385-8)
+(en) Kerry Downes, Christopher Wren, Oxford University Press, 2007 (ISBN 978-0-19-921524-9)
+(it) David Else, Inghilterra, EDT srl, 2007, 912 p. (ISBN 978-88-6040-136-6)
+(en) Nikolaus Pevsner, An outline of European architecture, University of Michigan, 1942 (ISBN 978-0-14-061613-2)
+(en) David Underdown, Start of Play : Cricket and Culture in 18th century England, Allen Lane, 2000, 257 p. (ISBN 978-0-7139-9330-1)
+Articles connexes
+Subdivisions de l'Angleterre
+Liste de villes du Royaume-Uni
+Fêtes et jours fériés au Royaume-Uni
+Mère des parlements
+Liens externes
+Site officiel [archive]
+Ressource relative à la santé : Medical Subject Headings
+Ressource relative à la bande dessinée : Comic Vine
+Ressource relative aux beaux-arts : Grove Art Online
+Ressource relative à la géographie : Mindat.org
+Ressource relative à l'audiovisuel : France 24
+Ressource relative à la musique : MusicBrainz
+Notices dans des dictionnaires ou encyclopédies généralistes : Britannica [archive]Brockhaus [archive]Den Store Danske Encyklopædi [archive]Enciclopedia De Agostini [archive]Gran Enciclopèdia Catalana [archive]Internetowa encyklopedia PWN [archive]Larousse [archive]Nationalencyklopedin [archive]Store norske leksikon [archive]
+Notices d'autorité : VIAFISNIBnF (données)IdRefLCCNGNDCiNiiEspagneIsraëlAustralieNorvègeTchéquiePortugalLettonieBrésil
+Site officiel du tourisme en Angleterre [archive]
+France-diplomatie, présentation du Royaume-Uni [archive]
+ [afficher]
+v · m
+Comtés métropolitains, non métropolitains et territoires relevant d’une autorité locale unique d'Angleterre par région
+ [afficher]
+v · m
+Nations, dépendances et territoires d'outre-mer du Royaume-Uni
+ [afficher]
+v · m
+Îles Britanniques
+icône décorative Portail de l’Angleterre icône décorative Portail du Royaume-Uni icône décorative Portail du monde celtique
+Catégorie : Angleterre[+]
+La dernière modification de cette page a été faite le 27 avril 2026 à 21:23.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactContacts juridiques & sécuritéCode de conduiteDéveloppeursStatistiquesDéclaration sur les témoins (cookies)Version mobile
+Wikimedia Foundation
+Powered by MediaWiki
+
+
+site.site
+site.fr
+site.gov
+site.academy
+www.site.site
+www.site.fr
+www.site.gov
+www.site.academy
+http://www.site.site
+http://www.site.fr
+http://www.site.gov
+http://www.site.academy
+https://www.site.site
+https://www.site.fr
+https://www.site.gov
+https://www.site.academy
+
+
+failas.dll
+failas.so
+failas.so.4
+failas.pdf

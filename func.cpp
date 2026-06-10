@@ -41,7 +41,7 @@ void Skaityti(const std::string& filename, std::map<std::string, std::vector<int
     file.close();
 }
 
-void Rasyti(const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap, bool sortByCount){
+void Rasyti(const std::string& oyaFilename, const std::string& countFilename, const std::string& linesFilename, const std::map<std::string, std::vector<int>>& wordMap, bool sortByCount){
     //lines
     std::ofstream linesFile(linesFilename);
     if(!linesFile.is_open()){
@@ -89,6 +89,20 @@ void Rasyti(const std::string& countFilename, const std::string& linesFilename, 
     }
     }
     countFile.close();
+
+    //papildoma:
+    std::ofstream oyaFile(oyaFilename);
+    if(!oyaFile.is_open()){
+        std::cerr << "Nepavyko atidaryti: " << oyaFilename << "\n";
+        return;
+    }
+
+    std::sort(entries.begin(), entries.end(), [](const auto& a, const auto& b){ return a.first > b.first; });
+    for(const auto& entry : entries){
+        if(entry.first.find("oya") != std::string::npos)oyaFile << entry.first << "\n";
+    }
+    
+    oyaFile.close();    
 
 }
 
